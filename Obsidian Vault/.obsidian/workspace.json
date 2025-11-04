@@ -11,10 +11,14 @@
             "id": "516432bfac972e3f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Dnd/Requiem Gigantis/Characters/Flavor/Throga “Mama” Krun.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Throga “Mama” Krun"
             }
           }
         ]
@@ -147,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Requiem Gigantis/Nations/Urokgard.md",
+                "file": "Dnd/Requiem Gigantis/Characters/Flavor/Throga “Mama” Krun.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Urokgard"
+              "title": "Outline of Throga “Mama” Krun"
             }
           },
           {
@@ -188,6 +192,27 @@
   },
   "active": "a9cd33378179647d",
   "lastOpenFiles": [
+    "Art/Pasted image 20251104131258.png",
+    "Dnd/Campaign Notes/AI Gen Prompts.md",
+    "Dnd/Requiem Gigantis/Characters/Flavor/Throga “Mama” Krun.md",
+    "Dnd/Requiem Gigantis/Characters/Flavor",
+    "Dnd/Campaign Notes/Tournament/Part 1/Tournament Part 1 Barinstorm.md",
+    "Dnd/Campaign Notes/Tournament/Part 1",
+    "Dnd/Campaign Notes/Tournament",
+    "Dnd/Requiem Gigantis/Locations/Ruined Bridge of Sorrows.md",
+    "Dnd/Campaign Notes",
+    "Dnd/Requiem Gigantis/Locations",
+    "Dnd/Requiem Gigantis/Cities/Passerelle.md",
+    "Art",
+    "Dnd/Requiem Gigantis/Lore/Fifth Age.md",
+    "Dnd/Requiem Gigantis/Lore/Creation Myth.md",
+    "Dnd/Requiem Gigantis/Cities/Quartum.md",
+    "Art/QuartumArt2.png",
+    "Dnd/Requiem Gigantis/Cities/Greenwater Village.md",
+    "Dnd/Requiem Gigantis/Cities/Pontis.md",
+    "Dnd/Requiem Gigantis/Cities/Pharus.md",
+    "Dnd/Requiem Gigantis/Untitled.md",
+    "Dnd/Requiem Gigantis/Cities",
     "Dnd/Requiem Gigantis/Minor Factions/The Shadowed Hand.md",
     "Holy Shard Empire.md",
     "Dnd/Requiem Gigantis/Nations/Urokgard.md",
@@ -201,15 +226,8 @@
     "Dnd/Requiem Gigantis/Nations",
     "Dnd/Requiem Gigantis/Lore/Intro Quotes.md",
     "Dnd/Requiem Gigantis/Characters/Finwe.md",
-    "Dnd/Requiem Gigantis/Lore/Fifth Age.md",
     "Dnd/Requiem Gigantis/Characters",
-    "Dnd/Requiem Gigantis/Lore/Creation Myth.md",
     "Dnd/Requiem Gigantis/Lore/The Ancients.md",
-    "Welcome.md",
-    "Dnd/Requiem Gigantis/Lore",
-    "Dnd/Requiem Gigantis",
-    "Dnd",
-    "create a link.md",
-    "asdasd.md"
+    "Welcome.md"
   ]
 }
