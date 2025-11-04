@@ -1,3 +1,6 @@
+Backstory:
+Splintered from the [[The Holy Shard Empire]] 
+
 - Shadowed Hand tactics and weapons
 
 	- Many members of the Shadowed hand are actually empire veterans or deserters. 
