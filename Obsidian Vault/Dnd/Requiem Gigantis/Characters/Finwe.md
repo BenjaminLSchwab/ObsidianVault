@@ -1,0 +1,1 @@
+Traitorous snitch that betrayed the party of the [[first campaign]]. Lanky elf dude. 
