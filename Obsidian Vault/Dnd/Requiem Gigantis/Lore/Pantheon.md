@@ -29,7 +29,7 @@
 		- In return, grants the elves strong elemental magic and shelters them from nature’s wrath.
 		    
 
-	- God of the [[Holy Shard Empire | Empire]], reclaimed knowledge of the ancients
+	- God of the [[The Holy Shard Empire | Empire]], reclaimed knowledge of the ancients
 	    
 	
 		- She was lying dormant in one of the ancient underground cities from the [[Third Age]]. Had almost lost all power when the first priests of the hold shard revived her.
