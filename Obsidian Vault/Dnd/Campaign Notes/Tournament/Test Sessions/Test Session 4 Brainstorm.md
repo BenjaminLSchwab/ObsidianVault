@@ -1,0 +1,46 @@
+- Caravan through [[the canyon]]
+	- Going east to west, a bunch of refugees, as well as a deserter and a smuggler have hired the [[canyon guide]] to get them through a massive canyon
+- For canyon guide, think about the guy from atla who broke his arm in the canyon episode
+	- Maybe even have guide break his arm
+- [[Deserter]] is fleeing [[The Holy Shard Empire]] army, his faith has been shattered
+	- Outlaw cowboy type
+- Refugees include orcs and goblins, as well as humans
+	- They don't get along
+- [[Smuggler]] has a lead box
+	- Won't talk about what's inside
+	- Its a mana battery gem from the ruins in [[Passerelle]]
+	- Maybe the smuggler is shadowed hand?
+- This canyon is the only route that avoids going further into the war zone and takes them through [[The Wastes]]
+- An [[isolated Pueblo]] carved into the canyon wall
+	- Not related to any of the larger empires
+	- Dagonborne?
+- Backstory for mission
+	- Canyon guide makes money getting people across this dangerous pass. Some of his regular guards were killed in the last trek, and the players are replacements.
+- Scene where they are camped for the night and guide tells the story of [[the night the stars fell]].
+	- Spooky movements high above the walls out in the open wastes
+- World building,  keeping it wild and giant and untamed
+	- [[Sand worm]]
+	- Canyon way too big to explore the whole thing
+	- Multiple paths, some never explored / unknown
+	- Stampede of [[giant desert Beatles]] 
+	- Canyon walls super tall
+	- Weather systems inside canyon
+- Caravan wagons
+	- Pulled by special [[draft goats]] 
+	- Big ass goats that are kinda mean 
+- 5 room dungeon structure
+	- Entrance, descending into the canyon
+		- Guide's warning about food / banned items
+		- Dangerous creatures that raid parties 
+		- Winding dangerous steep path
+		- Setup the caravan parties squabbling at this stage
+	- Puzzle, person is murdered. Who kills who and why?
+		- Deserter kills empire refugee who recognized him. Makes it look like an orc did it.
+		- Smuggler killed someone who tried to take his cube
+	- Setback, the party is attacked by a flock of [[pteradactyl like creatures]]
+	- Climax, what to do
+		- Party must escape sand worm?
+		- Party confronts murderer
+	- Resolution, what's in the box? Also deliver the people to the other side. 
+		- Learn about settlement on the other side
+		- Learn about shadowed hand
