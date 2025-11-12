@@ -12,10 +12,7 @@ The Ancestors of Man emerged from the caves and inherited the land. Civilization
 [[Fourth Age]]: The Second Upheaval
 Man learned the forbidden knowledge of all things. A great cataclysm nearly destroyed the earth. The great races forgot most of what they knew. Their children survived by becoming like animals. This is when the elves made their pact with the elder trees, which is still upheld by the [[Larrel Sovereignty]].
 
-[[Fifth Age]]: The Rebirth of Order
+[[Fifth Age]] (Current): The Rebirth of Order
 Nature’s rage subsided, and the seeds of civilization were allowed to sprout once more. Around two hundred years into the Fifth Age, [[The Holy Shard Empire]] was formed, and soon conquered much of the continent.
 
-Our story begins in the year 973 of the Fifth Age. The Holy Shard Empire is waning. It has lost territory in every war for the past hundred years. Much of that territory was gained by the [[Urokgard]], as the great horde seeks to settle and make its mark on history. 
-The elves maintain their pact as ever, but a paranoid Sovereign and the seductive promise of wealth through trade threatens the stability of their ancient state. 
-The Federation of Commerce and Harbors has had a meteoric rise to power in the southern seas, amassing great fortune. Many whisper that they tempt fate with their avarice.
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dnd/Requiem Gigantis/Lore/Fifth Age.md",
+                "file": "Dnd/Requiem Gigantis/Lore/Creation Myth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fifth Age"
+              "title": "Creation Myth"
             }
           }
         ]
@@ -188,14 +188,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "516432bfac972e3f",
+  "active": "b0698b632787b9e9",
   "lastOpenFiles": [
-    "UnderdarkDiscovery.png",
+    "Dnd/Requiem Gigantis/Lore/Fifth Age.md",
+    "Art/FirstCampaign.png",
+    "Art/UnderdarkDiscovery.png",
     "Art/InventionOfBanking.png",
     "Art/HolyShardFounding.png",
     "Dnd/Campaign Notes/AI Gen Prompts.md",
     "Dnd/Requiem Gigantis/Lore/The Night The Stars Fell.md",
-    "Dnd/Requiem Gigantis/Lore/Fifth Age.md",
     "Art/EmpireInJungle.png",
     "Dnd/Campaign Notes/Tournament/Test Sessions/Test Session 4 Brainstorm.md",
     "Art/FortressSiege.png",
@@ -218,10 +219,8 @@
     "Dnd/Requiem Gigantis/Lore/Pantheon.md",
     "Dnd/Requiem Gigantis/Nations/The Holy Shard Empire.md",
     "Dnd/Requiem Gigantis/Characters/Flavor/Thoggrin the Rebuilt.md",
-    "Art/Thoggrin the Rebuilt Portrait.png",
     "Holy Shard Empire.md",
     "High Temple.md",
-    "Art/Karnessa Vale Portrait.png",
     "Dnd/Campaign Notes/Tournament/Part 1/List of Characters to use for Underworld.md",
     "Dnd/Requiem Gigantis/Underworld",
     "Dnd/Requiem Gigantis/Characters/Gods",
