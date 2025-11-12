@@ -123,7 +123,7 @@
 		- History: As the holy shard empire faces its final days, an offshoot of priests led by Kael explored into the ruins of the ancients to see what artifacts they could recover. A great cost of lives and treasure was spent delving into some of the most dangerous areas of the ancient underground cities. They found that the ancients had a way to bind souls to machinery. The high priest of the empire deemed it heretical practice and Kael was sent into exile. He took a group of his followers and resettled in [[Abiib]]. The cult slowly grew from there, and eventually Kael transferred his soul into a construct. 
 		    
 	
-	- Otherworldly being that came from the stars and landed in the wastes during [[the night the stars fell]].
+	- Otherworldly being that came from the stars and landed in the wastes during [[The Night The Stars Fell]].
 	    
 	
 		- Not really new, just new to this land

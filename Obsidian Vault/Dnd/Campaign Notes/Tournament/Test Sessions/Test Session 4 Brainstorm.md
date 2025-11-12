@@ -16,7 +16,7 @@
 	- Dagonborne?
 - Backstory for mission
 	- Canyon guide makes money getting people across this dangerous pass. Some of his regular guards were killed in the last trek, and the players are replacements.
-- Scene where they are camped for the night and guide tells the story of [[the night the stars fell]].
+- Scene where they are camped for the night and guide tells the story of [[The Night The Stars Fell]].
 	- Spooky movements high above the walls out in the open wastes
 - World building,  keeping it wild and giant and untamed
 	- [[Sand worm]]
