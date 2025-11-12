@@ -9,14 +9,17 @@ Long before the ancestors of man emerged from their caves, Titans ruled the eart
 Many titans perished. A few escaped this realm, ascending to godhood. Before they left, they gave the gift of knowledge to the Ancestors of Man.
 ![[SecondAgeArt.png]]
 <div style="page-break-after: always;"></div>
+
 ## [[Third Age]]: The Golden Age of [[The Ancients]]
 The Ancestors of Man emerged from the caves and inherited the land. Civilization flourished. The great races spread far and wide and become different from each other. Cities of gold could be built with their riches. Their mastery of magic accelerated beyond anything known to the great races today. Their hubris angered nature.
 ![[ThirdAgeArt.png]]
 <div style="page-break-after: always;"></div>
+
 ## [[Fourth Age]]: The Second Upheaval
 Man learned the forbidden knowledge of all things. A great cataclysm nearly destroyed the earth. The great races forgot most of what they knew. Their children survived by becoming like animals. This is when the elves made their pact with the elder trees, which is still upheld by the [[Larrel Sovereignty]].
 ![[The Second Upheaval Art.png]]
 <div style="page-break-after: always;"></div>
+
 ## [[Fifth Age]] (Current): The Rebirth of Order
 Nature’s rage subsided, and the seeds of civilization were allowed to sprout once more. Around two hundred years into the Fifth Age, [[The Holy Shard Empire]] was formed, and soon conquered much of the continent.
 ![[FifthAgeArt.png]]
