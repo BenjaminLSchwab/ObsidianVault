@@ -11,7 +11,7 @@
 	- Its a mana battery gem from the ruins in [[Passerelle]]
 	- Maybe the smuggler is shadowed hand?
 - This canyon is the only route that avoids going further into the war zone and takes them through [[The Wastes]]
-- [[Vareth’s Cut]] 
+- [[Vareth's Cut]] 
 	- Isolated village carved into the canyon wall
 	- Not related to any of the larger empires
 	- Dragonborn

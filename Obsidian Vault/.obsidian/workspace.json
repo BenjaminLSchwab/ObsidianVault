@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "951a278db32b9c8e",
+            "id": "6bf8d7eef0ca66a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Dnd/Requiem Gigantis/Cities/Vareth's Cut.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vareth's Cut"
             }
           }
         ]
@@ -146,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Dnd/Requiem Gigantis/Cities/Vareth's Cut.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Vareth's Cut"
             }
           },
           {
@@ -186,51 +191,50 @@
   },
   "active": "a9cd33378179647d",
   "lastOpenFiles": [
+    "Dnd/Requiem Gigantis/Lore/Fifth Age.md",
+    "Art/underworld map gridless filter.jpg",
+    "Art/The Wastes.jpg",
+    "Dnd/Requiem Gigantis/Cities/Vareth's Cut.md",
+    "Dnd/Requiem Gigantis/Characters/PCs",
+    "Art/Vareth's Cut Art.png",
+    "Dnd/Campaign Notes/Tournament/Test Sessions/Test session 3 notes.md",
+    "Dnd/Requiem Gigantis/Characters/PCs/Bandit King.md",
+    "Dnd/Requiem Gigantis/Regions/The Underworld.md",
+    "Dnd/Campaign Notes/Tournament/Part 1/List of Characters to use for Underworld.md",
     "Dnd/Requiem Gigantis/Regions/The Wastes.md",
+    "Art/The Wastes.png",
     "Dnd/Requiem Gigantis/Regions/The Newala Canyon.md",
+    "Dnd/Requiem Gigantis/Characters/Gods/The Mad Prophet of The Cut.md",
+    "Art/Messias Beale Portrait.png",
+    "Dnd/Requiem Gigantis/Lore/Pantheon.md",
+    "Dnd/Requiem Gigantis/Minor Factions/The Awakened Void.md",
+    "Vareth's Cut.md",
     "Dnd/Campaign Notes/Tournament/Test Sessions/Test Session 4 Brainstorm.md",
     "Dnd/Requiem Gigantis/Characters/Ronan Calesh.md",
     "Dnd/Requiem Gigantis/Characters/Flavor/Merrit “Six-Fingers” Dross.md",
     "Art/Ronan Calesh Portrait.png",
     "Dnd/Campaign Notes/AI Gen Prompts.md",
     "Dnd/Requiem Gigantis/Nations/Larrel Sovereignty.md",
-    "Dnd/Requiem Gigantis/Lore/Fifth Age.md",
     "Dnd/Requiem Gigantis/Lore/Creation Myth.md",
     "Art/FifthAgeArt.png",
     "Art/The Second Upheaval Art.png",
     "Art/ThirdAgeArt.png",
     "Art/SecondAgeArt.png",
-    "Art/FirstAgeArt.png",
-    "Art/FirstCampaign.png",
-    "Art/UnderdarkDiscovery.png",
-    "Art/InventionOfBanking.png",
-    "Art/HolyShardFounding.png",
     "Dnd/Requiem Gigantis/Lore/The Night The Stars Fell.md",
     "Dnd/Requiem Gigantis/Regions/Untitled.md",
     "Dnd/Requiem Gigantis/Regions",
-    "Dnd/Campaign Notes/Tournament/Test Sessions/Test session 3 notes.md",
     "Gnomish trade delegation.md",
     "Dnd/Campaign Notes/Tournament/Test Sessions",
     "Dnd/Requiem Gigantis/Characters/Flavor/Sir Alaric of Unnenwald.md",
     "2025-11-04.md",
     "Dnd/Requiem Gigantis/Characters/Gods/Veythar the Eternal.md",
     "Dnd/Requiem Gigantis/Characters/Flavor/Karnessa Vale.md",
-    "Dnd/Requiem Gigantis/Lore/Pantheon.md",
-    "Dnd/Requiem Gigantis/Nations/The Holy Shard Empire.md",
-    "Dnd/Requiem Gigantis/Characters/Flavor/Thoggrin the Rebuilt.md",
-    "Holy Shard Empire.md",
-    "High Temple.md",
-    "Dnd/Campaign Notes/Tournament/Part 1/List of Characters to use for Underworld.md",
     "Dnd/Requiem Gigantis/Underworld",
     "Dnd/Requiem Gigantis/Characters/Gods",
     "Dnd/Requiem Gigantis/Characters/Legends",
-    "Dnd/Requiem Gigantis/Characters/Flavor/Throga “Mama” Krun.md",
     "Dnd/Requiem Gigantis/Characters/Flavor",
-    "Dnd/Campaign Notes/Tournament/Part 1/Tournament Part 1 Barinstorm.md",
     "Dnd/Campaign Notes/Tournament/Part 1",
     "Dnd/Campaign Notes/Tournament",
-    "Dnd/Requiem Gigantis/Locations/Ruined Bridge of Sorrows.md",
-    "Dnd/Campaign Notes",
-    "Dnd/Requiem Gigantis/Locations"
+    "Dnd/Campaign Notes"
   ]
 }

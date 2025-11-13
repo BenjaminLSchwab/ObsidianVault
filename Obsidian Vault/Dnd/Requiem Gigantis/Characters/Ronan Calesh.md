@@ -7,7 +7,7 @@ He wears a wide-brimmed hat and a long coat of tattered canvas reinforced with s
 ---
 ### **Backstory:**
 
-Ronan was born in the isolated town of [[Vareth’s Cut]]  His mother, **Alira Calesh**, was a human scholar from the Holy Shard’s borderlands; his father, a dragonborn trapper who vanished into [[The Newala Canyon]] one season and never came back.
+Ronan was born in the isolated town of [[Vareth's Cut]]  His mother, **Alira Calesh**, was a human scholar from the Holy Shard’s borderlands; his father, a dragonborn trapper who vanished into [[The Newala Canyon]] one season and never came back.
 
 He grew up listening to stories of Titans and gods, of the canyon’s moods and hungers. When the dragonborn children mocked his human looks, he spent his days alone in the wastes, learning the lay of the land, mapping dry wells and echoing caves. As he grew, he became a guide for caravans and monster hunters seeking rare pelts.
 

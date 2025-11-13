@@ -1,4 +1,4 @@
-![[The Wastes.png]]
+![[The Wastes.jpg]]
 ## History
 The wastes were created by an intense meteor shower that destroyed almost all life in an already arid region. This event is known as [[The Night The Stars Fell]]. 
 ## Bordering Cities
@@ -9,3 +9,4 @@ The wastes were created by an intense meteor shower that destroyed almost all li
 
 ## Features
 [[The Newala Canyon]]
+[[Vareth's Cut]]
