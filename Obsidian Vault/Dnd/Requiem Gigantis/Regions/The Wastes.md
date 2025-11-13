@@ -6,3 +6,6 @@ The wastes were created by an intense meteor shower that destroyed almost all li
 [[Passerelle]]
 [[Orcod]]
 [[Uzgak]]
+
+## Features
+[[The Newala Canyon]]

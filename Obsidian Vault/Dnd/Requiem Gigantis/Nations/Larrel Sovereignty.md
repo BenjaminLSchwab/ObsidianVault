@@ -24,9 +24,9 @@
     
 - There are some areas that employ slave labor of other peoples, but it is kept secret. 
     
-- To speak against [[the council]] or especially [[the sovereign]] is considered anywhere from crass to illegal depending on where you are in the sovereignty 
+- To speak against [[The Council]] or especially [[The Sovereign]] is considered anywhere from crass to illegal depending on where you are in the sovereignty 
     
-- Maintain giant [[elder forests]]
+- Maintain giant [[Elder Forests]]
     
 
 - Larrel Sovereignty tactics and weapons 

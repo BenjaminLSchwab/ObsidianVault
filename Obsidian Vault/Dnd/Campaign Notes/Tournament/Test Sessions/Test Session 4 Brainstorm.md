@@ -1,5 +1,5 @@
-- Caravan through [[the canyon]]
-	- Going east to west, a bunch of refugees, as well as a deserter and a smuggler have hired the [[canyon guide]] to get them through a massive canyon
+- Caravan through [[The Newala Canyon]]
+	- Going east to west, a bunch of refugees, as well as a deserter and a smuggler have hired the [[Ronan Calesh]] to get them through a massive canyon
 - For canyon guide, think about the guy from atla who broke his arm in the canyon episode
 	- Maybe even have guide break his arm
 - [[Deserter]] is fleeing [[The Holy Shard Empire]] army, his faith has been shattered
@@ -11,9 +11,10 @@
 	- Its a mana battery gem from the ruins in [[Passerelle]]
 	- Maybe the smuggler is shadowed hand?
 - This canyon is the only route that avoids going further into the war zone and takes them through [[The Wastes]]
-- An [[isolated Pueblo]] carved into the canyon wall
+- [[Vareth’s Cut]] 
+	- Isolated village carved into the canyon wall
 	- Not related to any of the larger empires
-	- Dagonborne?
+	- Dragonborn
 - Backstory for mission
 	- Canyon guide makes money getting people across this dangerous pass. Some of his regular guards were killed in the last trek, and the players are replacements.
 - Scene where they are camped for the night and guide tells the story of [[The Night The Stars Fell]].

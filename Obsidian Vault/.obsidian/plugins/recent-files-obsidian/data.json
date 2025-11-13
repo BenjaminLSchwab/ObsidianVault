@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "The Wastes",
+      "path": "Dnd/Requiem Gigantis/Regions/The Wastes.md"
+    },
+    {
+      "basename": "The Newala Canyon",
+      "path": "Dnd/Requiem Gigantis/Regions/The Newala Canyon.md"
+    },
+    {
+      "basename": "Test Session 4 Brainstorm",
+      "path": "Dnd/Campaign Notes/Tournament/Test Sessions/Test Session 4 Brainstorm.md"
+    },
+    {
+      "basename": "Ronan Calesh",
+      "path": "Dnd/Requiem Gigantis/Characters/Ronan Calesh.md"
+    },
+    {
+      "basename": "Merrit “Six-Fingers” Dross",
+      "path": "Dnd/Requiem Gigantis/Characters/Flavor/Merrit “Six-Fingers” Dross.md"
+    },
+    {
+      "basename": "AI Gen Prompts",
+      "path": "Dnd/Campaign Notes/AI Gen Prompts.md"
+    },
+    {
+      "basename": "Larrel Sovereignty",
+      "path": "Dnd/Requiem Gigantis/Nations/Larrel Sovereignty.md"
+    },
+    {
+      "basename": "Fifth Age",
+      "path": "Dnd/Requiem Gigantis/Lore/Fifth Age.md"
+    },
+    {
       "basename": "Creation Myth",
       "path": "Dnd/Requiem Gigantis/Lore/Creation Myth.md"
     },
@@ -9,24 +41,8 @@
       "path": "Art/FifthAgeArt.png"
     },
     {
-      "basename": "Fifth Age",
-      "path": "Dnd/Requiem Gigantis/Lore/Fifth Age.md"
-    },
-    {
-      "basename": "AI Gen Prompts",
-      "path": "Dnd/Campaign Notes/AI Gen Prompts.md"
-    },
-    {
       "basename": "The Night The Stars Fell",
       "path": "Dnd/Requiem Gigantis/Lore/The Night The Stars Fell.md"
-    },
-    {
-      "basename": "Test Session 4 Brainstorm",
-      "path": "Dnd/Campaign Notes/Tournament/Test Sessions/Test Session 4 Brainstorm.md"
-    },
-    {
-      "basename": "The Wastes",
-      "path": "Dnd/Requiem Gigantis/Regions/The Wastes.md"
     },
     {
       "basename": "The Wastes",
@@ -39,10 +55,6 @@
     {
       "basename": "Sir Alaric of Unnenwald",
       "path": "Dnd/Requiem Gigantis/Characters/Flavor/Sir Alaric of Unnenwald.md"
-    },
-    {
-      "basename": "Merrit “Six-Fingers” Dross",
-      "path": "Dnd/Requiem Gigantis/Characters/Flavor/Merrit “Six-Fingers” Dross.md"
     },
     {
       "basename": "Veythar the Eternal",
@@ -111,10 +123,6 @@
     {
       "basename": "Federation of Commerce and Harbors",
       "path": "Dnd/Requiem Gigantis/Nations/Federation of Commerce and Harbors.md"
-    },
-    {
-      "basename": "Larrel Sovereignty",
-      "path": "Dnd/Requiem Gigantis/Nations/Larrel Sovereignty.md"
     }
   ],
   "omittedPaths": [],
