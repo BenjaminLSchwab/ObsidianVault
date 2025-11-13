@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dnd/Requiem Gigantis/Cities/Vareth's Cut.md",
-                "mode": "source",
+                "file": "Dnd/Requiem Gigantis/Regions/The Newala Canyon.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vareth's Cut"
+              "title": "The Newala Canyon"
             }
           }
         ]
@@ -150,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Requiem Gigantis/Cities/Vareth's Cut.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vareth's Cut"
+              "title": "Outline"
             }
           },
           {
@@ -189,21 +188,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9cd33378179647d",
+  "active": "6bf8d7eef0ca66a5",
   "lastOpenFiles": [
+    "Dnd/Requiem Gigantis/Regions/The Newala Canyon.md",
+    "Newala Canyon Art.png",
+    "Dnd/Requiem Gigantis/Cities/Vareth's Cut.md",
+    "Dnd/Requiem Gigantis/Regions/The Wastes.md",
+    "TheWastesArt.png",
     "Dnd/Requiem Gigantis/Lore/Fifth Age.md",
     "Art/underworld map gridless filter.jpg",
     "Art/The Wastes.jpg",
-    "Dnd/Requiem Gigantis/Cities/Vareth's Cut.md",
     "Dnd/Requiem Gigantis/Characters/PCs",
     "Art/Vareth's Cut Art.png",
     "Dnd/Campaign Notes/Tournament/Test Sessions/Test session 3 notes.md",
     "Dnd/Requiem Gigantis/Characters/PCs/Bandit King.md",
     "Dnd/Requiem Gigantis/Regions/The Underworld.md",
     "Dnd/Campaign Notes/Tournament/Part 1/List of Characters to use for Underworld.md",
-    "Dnd/Requiem Gigantis/Regions/The Wastes.md",
     "Art/The Wastes.png",
-    "Dnd/Requiem Gigantis/Regions/The Newala Canyon.md",
     "Dnd/Requiem Gigantis/Characters/Gods/The Mad Prophet of The Cut.md",
     "Art/Messias Beale Portrait.png",
     "Dnd/Requiem Gigantis/Lore/Pantheon.md",
@@ -218,8 +219,6 @@
     "Dnd/Requiem Gigantis/Lore/Creation Myth.md",
     "Art/FifthAgeArt.png",
     "Art/The Second Upheaval Art.png",
-    "Art/ThirdAgeArt.png",
-    "Art/SecondAgeArt.png",
     "Dnd/Requiem Gigantis/Lore/The Night The Stars Fell.md",
     "Dnd/Requiem Gigantis/Regions/Untitled.md",
     "Dnd/Requiem Gigantis/Regions",

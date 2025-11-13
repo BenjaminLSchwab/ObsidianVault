@@ -29,7 +29,7 @@ The oasis supports date palms, bitter scrub brush, and colonies of canyon lizard
 
 ## Relationship with the Outside World
 
-The Holy Shard Empire tried occupation twice in the 400's of the [[Fifth Age]]
+[[The Holy Shard Empire]] tried occupation twice in the 400's of the [[Fifth Age]]
 
 - First attempt, garrison of 40 soldiers. Twelve dead from heat stroke in the first month. The rest driven out after their water rations were mysteriously poisoned with cactus toxin.
 - Second attempt, "cultural integration" program with tax collectors and a Common language school. The Clutch Mothers smiled, nodded, and taught children to sabotage the census. After two years of bureaucratic frustration and no revenue, the Empire withdrew.
