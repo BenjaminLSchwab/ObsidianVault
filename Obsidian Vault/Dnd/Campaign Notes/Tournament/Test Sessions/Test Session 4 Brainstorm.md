@@ -2,11 +2,12 @@
 	- Going east to west, a bunch of refugees, as well as a deserter and a smuggler have hired the [[Ronan Calesh]] to get them through a massive canyon
 - For canyon guide, think about the guy from atla who broke his arm in the canyon episode
 	- Maybe even have guide break his arm
-- [[Deserter]] is fleeing [[The Holy Shard Empire]] army, his faith has been shattered
+- [[Garrett Moss]] is fleeing [[The Holy Shard Empire]] army, his faith has been shattered
 	- Outlaw cowboy type
 - Refugees include orcs and goblins, as well as humans
 	- They don't get along
-- [[Smuggler]] has a lead box
+	- Maybe include [[Throga “Mama” Krun]]
+- [[Silas 'Robert Smith' Venn]] has a lead box
 	- Won't talk about what's inside
 	- Its a mana battery gem from the ruins in [[Passerelle]]
 	- Maybe the smuggler is shadowed hand?
@@ -17,6 +18,7 @@
 	- Dragonborn
 - Backstory for mission
 	- Canyon guide makes money getting people across this dangerous pass. Some of his regular guards were killed in the last trek, and the players are replacements.
+	- [[Lore Handout for Test Session 4]]
 - Scene where they are camped for the night and guide tells the story of [[The Night The Stars Fell]].
 	- Spooky movements high above the walls out in the open wastes
 - World building,  keeping it wild and giant and untamed
