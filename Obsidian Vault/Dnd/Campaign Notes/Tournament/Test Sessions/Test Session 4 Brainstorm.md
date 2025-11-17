@@ -38,7 +38,9 @@
 		- Winding dangerous steep path
 		- Setup the caravan parties squabbling at this stage
 	- Puzzle, person is murdered. Who kills who and why?
-		- Deserter kills empire refugee who recognized him. Makes it look like an orc did it.
+		- [[Garrett Moss]] kills [[Marcus Hendry]] who recognized him. Makes it look like an orc did it.
+			- Party has been on the road for a bit, maybe gotten to know Garrett a bit, maybe gotten to know [[Grul Ironfoot]]
+			- They see the orcs arguing with the human villager
 		- Smuggler killed someone who tried to take his cube
 	- Setback, the party is attacked by a flock of [[pteradactyl like creatures]]
 	- Climax, what to do
