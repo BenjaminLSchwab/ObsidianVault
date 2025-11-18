@@ -1,0 +1,14 @@
+- Character Creation
+- Joe
+	- [[James Walker Griffith]]
+	- ![[JamesWalker.png]]
+	- Average Human
+	- Cleric
+- Tucker
+	- [[Austerio]]
+	- Half Elf
+	- Sorcerer
+- Girton
+	- [[Skipio]]
+	- Dwarf
+	- Paladin
