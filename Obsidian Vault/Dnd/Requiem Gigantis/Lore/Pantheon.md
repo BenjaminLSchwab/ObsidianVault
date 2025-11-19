@@ -9,7 +9,7 @@
 		- One of the many claiming the title “god of death”, he earned his place as leader of the realm of dead. As the mortal realm became more connected, he waged a conquest for all the souls not destined for other gods’ realms. Eventually, he was victorious, and has had a lasting pact with the other established gods to be the default destination of the dead, in exchange for not meddling in the mortal realm.
     
 
-	- [[Helm, the protector]] 
+	- [[Helm, The Protector, God of the Dwarves]] 
     
 
 		- Traditional main god of the dwarves
@@ -19,7 +19,7 @@
 		- Mine metals / gems, Protect the fortress, drink ale, kill goblins. Simple as.
     
 
-	- God of the elves
+	- [[God of the elves]]
 	    
 	
 		- Deku tree like being
