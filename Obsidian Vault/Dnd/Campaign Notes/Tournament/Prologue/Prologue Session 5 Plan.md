@@ -1,0 +1,7 @@
+- Session begins with party arriving to [[Ronan's Shack]] 
+	- Paint a picture of the scene, the plains turning to desert wasteland
+		- allow a chance for characters to roleplay a bit as a group before meeting the other characters
+		- "Please describe how your characters look. How do they feel arriving at this new job?"
+	- Meet [[Ronan Calesh]]
+	- Meet [[Grul Ironfoot]]
+	- 

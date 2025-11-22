@@ -1,0 +1,3 @@
+- Capitol of [[Larrel Sovereignty]].
+- Home of [[Sylveth, The Eternal Arbor]]
+- 

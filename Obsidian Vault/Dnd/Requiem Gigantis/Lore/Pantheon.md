@@ -19,7 +19,7 @@
 		- Mine metals / gems, Protect the fortress, drink ale, kill goblins. Simple as.
     
 
-	- [[God of the elves]]
+	- [[Sylveth, The Eternal Arbor]]
 	    
 	
 		- Deku tree like being
@@ -140,11 +140,11 @@
 		    
 		- A few cults of dark elves and goth kids serve as her foothold on the surface.
 		
-	- And many more…
 	- [[The Awakened Void]]
 		- Led by [[The Mad Prophet of The Cut]]
 		- Founded in [[Vareth's Cut]] 
 		- Diverts souls not to any realm in particular, but to be dissolved into a larger awareness. A self identification with the entire universe. The souls are in some sense destroyed, or merged with a larger whole, from which the cult derives its power.
+	- And many more…
 	    
 
 

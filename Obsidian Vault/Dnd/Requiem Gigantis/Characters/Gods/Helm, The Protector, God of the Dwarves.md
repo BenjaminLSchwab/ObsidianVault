@@ -26,7 +26,7 @@ Holy Colors: Iron gray, deep earth brown, and gold
 
 **[[Steelbeard Bastion]]** Legendary site where Helm supposedly carved the first dwarf settlement from living mountain.
 
-**[[The Eternal Forge]]:** Deep beneath [[The Vidga Range]], a forge where Helm allegedly taught the first smiths. The anvil is supposedly a meteor that fell before recorded history. Priests maintain it constantly. Metal worked on this anvil is considered blessed. There's a decades-long waiting list.
+**[[The Eternal Forge]]:** Deep beneath [[Vidga Range]], a forge where Helm allegedly taught the first smiths. The anvil is supposedly a meteor that fell before recorded history. Priests maintain it constantly. Metal worked on this anvil is considered blessed. There's a decades-long waiting list.
 
 ## Helm's Afterlife: The Hall Eternal
 

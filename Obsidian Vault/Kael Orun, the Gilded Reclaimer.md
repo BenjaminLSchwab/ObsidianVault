@@ -1,0 +1,6 @@
+
+Domain: Forge, Death, Order
+Symbol: A brass ring filled with turning cogs and an ever-burning core.
+“Entropy is sin.” Death is waste; perfection is perpetual motion. Souls should be refined, reforged, and returned to service. Worshippers bind spirits into machines, weapons, and constructs — claiming this prevents decay.
+Aesthetic: Smokestacks and temples of bronze and ash, priests with mechanical halos, clockwork angels built from the bones of saints.
+History: As the holy shard empire faces its final days, an offshoot of priests led by Kael explored into the ruins of the ancients to see what artifacts they could recover. A great cost of lives and treasure was spent delving into some of the most dangerous areas of the ancient underground cities. They found that the ancients had a way to bind souls to machinery. The high priest of the empire deemed it heretical practice and Kael was sent into exile. He took a group of his followers and resettled in [[Abiib]]. The cult slowly grew from there, and eventually Kael transferred his soul into a construct. 
