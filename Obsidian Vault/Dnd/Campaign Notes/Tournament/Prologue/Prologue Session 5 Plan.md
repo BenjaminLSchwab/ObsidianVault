@@ -1,7 +1,56 @@
+- Todo
+	- Make sure Silas has a cover character note to give to players
+	- make Ronan's shack location sheet
+	- make canyon camp art
+	- make bathtub man sheet
+	- nail down specifics of [[caravan]]
+		- How many ppl
+		- How many wagon
+		- Cargo
 - Session begins with party arriving to [[Ronan's Shack]] 
 	- Paint a picture of the scene, the plains turning to desert wasteland
 		- allow a chance for characters to roleplay a bit as a group before meeting the other characters
 		- "Please describe how your characters look. How do they feel arriving at this new job?"
-	- Meet [[Ronan Calesh]]
-	- Meet [[Grul Ironfoot]]
-	- 
+	- Meet [[Ronan Calesh]],  [[Grul Ironfoot]], [[Marcus Hendry]], [[Silas 'Robert Smith' Venn]], [[Garrett Moss]] 
+- Ronan briefs the caravan on the rules of the canyon
+	- Food
+		- Keep all waterskins tightly closed until sundown
+		- Only dry rations such as hard tack, flour, or pemmican allowed
+			- No meat!
+		- Otherwise we will be attacked by scavengers for sure
+	- Stick together
+		- Its easy to get lost
+		- predators love to pick off stragglers
+- Canyon Decent
+	- A rockslide has blocked the narrow switchback path down to the canyon floor. What to do?
+		- Clear the rockslide (athletics check)
+			- might be a long task, could mean camping in an unsafe area
+		- Skip the blocked part of the switchback by climbing down, and lowering carts with rope
+			- risky but much faster
+		- Some other creative solution from players
+	- Establish Orcs v Humans rivalry
+		- "If these damn humans knew how to travel light, we wouldn't be having this problem"
+		- "I'm sure some of these stinky orcs are bringing fresh meat. They don't know how to eat anything else"
+		- "Will those damn orclings shut up already!"
+- [[Canyon Bottom Camp]]
+	- Emphasize the sudden plunge in temp as the sun goes down. It becomes dark much earlier in the canyon bottom. The colors of the sky above are captivating.
+	- A perception check will reveal that pterodactyl like creatures are gathering on nearby perches and eyeing the camp. They will have to keep a close watch tonight.
+- Giant scorpion encounter
+	- Murder happens during confusion
+	- allow party to loot monster parts
+- [[Bathtub Man]]
+	- Allow players to trade monster parts for potions
+- Wagon breakdown
+	- Water spills out of broken jugs, attracting pterodactyls
+- Travel through crater scape
+	- chance to loot the valuable meteor ore in the center of craters
+- Travel timelapse
+- Near [[Vareth's Cut]]
+	- In an echo chamber carved out of the canyon wall, they hear a ranting and raving voice coming out
+	- Its [[The Mad Prophet of The Cut]]
+- [[Vareth's Cut]] Arrival 
+	- paint picture of the town
+	- humidity and greenery is good
+	- dragonborn warriors are not trusting of outsiders
+	- party receives payment
+	- [[Silas 'Robert Smith' Venn]] will want to scurry away with his smuggled box.
