@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Bathtub Man",
+      "path": "Bathtub Man.md"
+    },
+    {
       "basename": "Prologue Session 5 Plan",
       "path": "Dnd/Campaign Notes/Tournament/Prologue/Prologue Session 5 Plan.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pontis",
       "path": "Dnd/Requiem Gigantis/Cities/Pontis.md"
-    },
-    {
-      "basename": "Pharus",
-      "path": "Dnd/Requiem Gigantis/Cities/Pharus.md"
     }
   ],
   "omittedPaths": [],

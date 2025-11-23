@@ -2,7 +2,7 @@
 	- Make sure Silas has a cover character note to give to players
 	- make Ronan's shack location sheet
 	- make canyon camp art
-	- make bathtub man sheet
+	- make [[Bathtub Man]] sheet
 	- nail down specifics of [[caravan]]
 		- How many ppl
 		- How many wagon

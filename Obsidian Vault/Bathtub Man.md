@@ -1,0 +1,31 @@
+- A mysterious man, scraggly beard, crackhead energy
+- sitting in a bathtub of strange multi colored liquid
+- always stirring, sometimes adding ingredients
+- Players can trade monster parts for potions (must be fresh parts harvested by player)
+	- common monster part
+		- potion climbing
+			- When you drink this potion, you gain a climbing speed equal to your walking speed for 1 hour. During this time, you have advantage on Strength (Athletics) checks you make to climb. The potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.
+		- Potion of watchful rest
+			- When you drink this potion, you gain the following benefits for the next 8 hours: magic can't put you to sleep, and you can remain awake during a long rest and still gain its benefits.
+		- Potion of Slipperiness
+			- This sticky black unguent is thick and heavy in the container, but it flows quickly when poured. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of a Freedom of Movement spell for 8 hours.
+			- Alternatively, the oil can be poured on the ground as an action, where it covers a 10-foot square, duplicating the effect of the Grease spell in that area for 8 hours.
+	- uncommon monster part
+		- Potion of Advantage
+		- Potion of Hill Giant Strength
+		- Potion of Poison
+		- Potion of Water Breathing
+		- Philter of Love
+			- The next time you see a creature within 10 minutes after drinking this philter, you become charmed by that creature for 1 hour. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are charmed. This potion's rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart.
+		- potion of healing
+			- 2d4 + 2
+	- rare monster part
+		- Oil of Etherealness
+		- Potion of Clairvoyance
+		- Potion of Invulnerability
+		- Potion of Maximum Power
+		- Potion of Mind Reading
+		- Bear Adrenaline
+			- Automatic Critical
+		- potion of greater healing
+			- 4d4 + 4
