@@ -1,0 +1,54 @@
+- Location: Ancient Elven Crypt
+	- Somewhere in the north west, where the [[Urokgard]] meets the [[Larrel Sovereignty]]
+	- The Urokgard have taken some forested land from the elves and cleared it for the great hoard
+	- As the land was cleared, they came upon an area where strange things would grow from the ground, days after being cut down
+		- large mushroom like growths would pop up overnight
+		- trying to cut them down would cause the workers to get sick
+		- In the center of this area, an entrance to an [[ancient elven burial chamber]] was found
+		- There could be great loot down there!
+- The lost part already sent in
+	- A party of orc and goblin warriors was sent in, but never returned
+		- The local warlord decided to hire adventurers instead of risking more warriors on this task
+		- The warlord will keep 1/3, 1/3 goes to the high urok, and 1/3 is kept by the party
+- Whats waiting for the party
+	- This crypt is the burial site of a group of elves dating back to the late [[Fourth Age]]
+		- They were worshipers of [[Giant ancient network of mycilium]]
+	- Undead / mushroom themed dungeon
+		- Poison spores
+		- mushroom zombies
+		- Life draining effects
+		- Killed monsters / enemies are quickly consumed by the mycilium
+	- Loot
+		- Ancient Elven stuff
+			- old silver
+			- mithril
+			- enchanted artifacts
+	- Maybe there will be an entrance to the [[Underdark]] in there somewhere, giving the party a chance to try to avoid giving the [[Urokgard]] their cut
+- 5 room dungeon
+	- 1 Entrance puzzle
+		- poison mushroom zone leading up to a cave entrance
+		- small cave room has a stone door on the opposite side the players enter
+		- Puzzle: There is a stone button on the door, and four pedestals, each with a button
+			- The pedestals each have an elvish word on them:
+				- Spore (1)
+				- Mycelium network (3)
+				- Germination (4)
+				- Fruiting body (mushroom) (4)
+			- The pedestals will glow after being pressed, and pressing the button on the door will enter the combination
+			- The pedestals must be pressed in the correct order, then the door button
+				- Incorrect combo will result in poison spores being released into the room (CON save dc 16, D8 poison dmg)
+	-  2 Guardian
+		- The previous party of orcs and goblins have been made into mushroom zombies that will attack the players
+	- 3 Setback or trick
+		- Maybe the players find a dead elf who has a bunch of shiny loot on him
+			- When they touch the elf, he drains some of their life force and becomes reanimated, fight ensues
+	- 4 Climax
+		- The party finds the main burial chamber for these elves, and is able to commune with the ancient network
+		- The network is pissed that they came to loot, and sends a bunch of zombie mushrooms at them
+		- big interesting fight space with tree roots, waterfall, and coffins that might come open if disturbed
+	- 5 Reward, learning more info, option for [[Underdark]]
+		- Big pile of loot, some enchanted items
+		- among the loot, the party finds a journal of one of the elves that details the schism between the tree worshiping elves and the mushroom worshippers
+			- The tree worshippers stayed on the surface and became the Larrel, the mushroom worshippers went into the [[Underdark]] and became the [[Dark Elves]]
+		- Nearby, they find a long spiraling staircase made of roots and mycelium
+			- It goes into the underdark, and who knows what's down there

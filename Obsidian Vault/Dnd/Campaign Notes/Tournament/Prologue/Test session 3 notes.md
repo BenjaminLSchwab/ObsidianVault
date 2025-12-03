@@ -1,3 +1,4 @@
+[[Big Dick Zaddy]] had just killed himself 
 Party went into [[abandoned watch tower]] and looted the spider room, avoided fight with giant spider
 
 Bandit King Tamed [[Lil Bandito]], the baby griffon
