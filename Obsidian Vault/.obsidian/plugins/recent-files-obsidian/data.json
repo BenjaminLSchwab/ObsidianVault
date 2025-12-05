@@ -5,24 +5,8 @@
       "path": "Dnd/Campaign Notes/Tournament/Prologue/Test Session 4 Notes.md"
     },
     {
-      "basename": "Big Dick Zaddy",
-      "path": "Dnd/Requiem Gigantis/Characters/PCs/Big Dick Zaddy.md"
-    },
-    {
-      "basename": "Test session 3 notes",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Test session 3 notes.md"
-    },
-    {
-      "basename": "Austerio",
-      "path": "Dnd/Requiem Gigantis/Characters/PCs/Austerio.md"
-    },
-    {
-      "basename": "Waelyn",
-      "path": "Dnd/Requiem Gigantis/Characters/PCs/Waelyn.md"
-    },
-    {
-      "basename": "Bathtub Man",
-      "path": "Dnd/Requiem Gigantis/Characters/Legends/Bathtub Man.md"
+      "basename": "Character Creation Notes 12-4-2025",
+      "path": "Dnd/Campaign Notes/Tournament/Prologue/Character Creation Notes 12-4-2025.md"
     },
     {
       "basename": "James Walker Griffith",
@@ -31,6 +15,46 @@
     {
       "basename": "Skipio",
       "path": "Dnd/Requiem Gigantis/Characters/PCs/Skipio.md"
+    },
+    {
+      "basename": "Big Dick Zaddy",
+      "path": "Dnd/Requiem Gigantis/Characters/PCs/Big Dick Zaddy.md"
+    },
+    {
+      "basename": "Bendrankda Catwadder",
+      "path": "Dnd/Requiem Gigantis/Characters/PCs/Bendrankda Catwadder.md"
+    },
+    {
+      "basename": "Bandit King",
+      "path": "Dnd/Requiem Gigantis/Characters/PCs/Bandit King.md"
+    },
+    {
+      "basename": "Austerio",
+      "path": "Dnd/Requiem Gigantis/Characters/PCs/Austerio.md"
+    },
+    {
+      "basename": "Bendrankda Portrait",
+      "path": "Art/Bendrankda Portrait.png"
+    },
+    {
+      "basename": "SlamFace DoorKnob",
+      "path": "Dnd/Requiem Gigantis/Characters/PCs/SlamFace DoorKnob.md"
+    },
+    {
+      "basename": "Sue Fuqs",
+      "path": "Dnd/Requiem Gigantis/Characters/PCs/Sue Fuqs.md"
+    },
+    {
+      "basename": "Test session 3 notes",
+      "path": "Dnd/Campaign Notes/Tournament/Prologue/Test session 3 notes.md"
+    },
+    {
+      "basename": "Waelyn",
+      "path": "Dnd/Requiem Gigantis/Characters/PCs/Waelyn.md"
+    },
+    {
+      "basename": "Bathtub Man",
+      "path": "Dnd/Requiem Gigantis/Characters/Legends/Bathtub Man.md"
     },
     {
       "basename": "Prologue mushroom dungeon brainstorm",
@@ -149,10 +173,6 @@
       "path": "Dnd/Requiem Gigantis/Characters/Finwe.md"
     },
     {
-      "basename": "Bandit King",
-      "path": "Dnd/Requiem Gigantis/Characters/PCs/Bandit King.md"
-    },
-    {
       "basename": "Veythar the Eternal",
       "path": "Dnd/Requiem Gigantis/Characters/Gods/Veythar the Eternal.md"
     },
@@ -175,30 +195,6 @@
     {
       "basename": "Karnessa Vale",
       "path": "Dnd/Requiem Gigantis/Characters/Flavor/Karnessa Vale.md"
-    },
-    {
-      "basename": "The Newala Canyon",
-      "path": "Dnd/Requiem Gigantis/Regions/The Newala Canyon.md"
-    },
-    {
-      "basename": "The Awakened Void",
-      "path": "Dnd/Requiem Gigantis/Minor Factions/The Awakened Void.md"
-    },
-    {
-      "basename": "underworld map gridless filter",
-      "path": "Art/underworld map gridless filter.jpg"
-    },
-    {
-      "basename": "The Underworld",
-      "path": "Dnd/Requiem Gigantis/Regions/The Underworld.md"
-    },
-    {
-      "basename": "Larrel Sovereignty",
-      "path": "Dnd/Requiem Gigantis/Nations/Larrel Sovereignty.md"
-    },
-    {
-      "basename": "FifthAgeArt",
-      "path": "Art/FifthAgeArt.png"
     }
   ],
   "omittedPaths": [],

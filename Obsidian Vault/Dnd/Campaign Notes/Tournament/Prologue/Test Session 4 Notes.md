@@ -1,7 +1,7 @@
 - Character Creation
 	- Joe
 		- [[James Walker Griffith]]
-		- ![[JamesWalker.png]]
+		- ![[JamesWalker 1.png]]
 		- Average Human
 		- Cleric
 	- Tucker

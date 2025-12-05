@@ -1,0 +1,9 @@
+- Notes fron remembering [[first campaign]] 
+	- Gnard and Bastion and Fortina had helped a guy with a griffon, he promised to help them later by flying thme around or something
+	- The pet hyena was named Humphreys
+- Notes for next time
+	- Warn players not to get ahead of themselves, we have to do ability scores first or else we will have to adjust things after
+- New PCs
+	- [[Bendrankda Catwadder]]
+	- [[Sue Fuqs]]
+	- [[SlamFace DoorKnob]]
