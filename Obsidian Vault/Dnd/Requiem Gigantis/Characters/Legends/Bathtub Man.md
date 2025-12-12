@@ -1,3 +1,4 @@
+![[BathtubMan Portrait.png]]
 - A mysterious man, scraggly beard, crackhead energy
 - sitting in a bathtub of strange multi colored liquid
 - always stirring, sometimes adding ingredients

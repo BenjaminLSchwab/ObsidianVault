@@ -1,12 +1,11 @@
 - Todo
-	- Make sure Silas has a cover character note to give to players
-	- make Ronan's shack location sheet
-	- make canyon camp art
-	- make [[Bathtub Man]] sheet
 	- nail down specifics of [[caravan]]
 		- How many ppl
+			- 20
 		- How many wagon
+			- 4
 		- Cargo
+			- everyday living, some trade goods
 - Session begins with party arriving to [[Ronan's Shack]] 
 	- Paint a picture of the scene, the plains turning to desert wasteland
 		- allow a chance for characters to roleplay a bit as a group before meeting the other characters
