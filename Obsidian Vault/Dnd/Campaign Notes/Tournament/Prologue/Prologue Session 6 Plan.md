@@ -1,0 +1,32 @@
+- We need a battle this session
+	- maybe pterodactyls attack after smelling dead guy
+- Slow down and have the party meet some of the caravan characters
+	- especially the smuggler
+
+
+- Start with the caravan being rattled after the murder investigation
+- [[Ronan Calesh]] announces that they must move fast, now that there is the smell of a dead body in the air
+- party can decide what to do with him
+- see some pterodactyls start to gather
+- [[Silas 'Robert Smith' Venn]] recommends leaving him to the beasts, the living are more important
+- battle starts
+	- What's the goal of the battle?
+		- Kill enough enemies?
+			- 6 - 7
+		- Make sure to give the party Pteranodon beaks in the loot
+- Night watch
+	- Emphasize the sudden plunge in temp as the sun goes down. It becomes dark much earlier in the canyon bottom. The colors of the sky above are captivating.
+	- Chance for roleplay
+		- [[Grul Ironfoot]] can say thanks 
+	- [[Garrett Moss]] can sneak into camp and try to steal supplies
+- Travel fast forward
+	- describe the endless canyon, the frigid nights and scorching days
+	- describe Ronan's intuitive connection to the canyon 
+	- describe 'Robert's attachment to his strange lead box
+- [[Bathtub Man]] 
+- Echo chamber
+	- Describe the raving sound coming from the cave
+- Encounter [[The Mad Prophet of The Cut| Messias Beale]] 
+	- Describe his body language and ranting nature
+	- describe the crowds complete enrapturement with his words
+	- "Right now! Stop listening to my words and simply hear the sound right now! You have everything you need for enlightenment right now! Forget the gods! The gods are dead the moment you stop thinking about them! Your inheritance is the entire cosmos and you needn't wait for anyone to die to take it."

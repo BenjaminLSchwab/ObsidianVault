@@ -1,17 +1,12 @@
-- [[Sue Fuqs]]
-	- younest sibling, doesnt return often but loves his family
-- [[SlamFace DoorKnob]]
-	- Warrior clan
-	- became high ranking soldier in clan
-	- no longer ascosiated
-	- Clan had become kingdom
-	- kingdom grew
 
-- Party met up on road outside Ronan's Shack
+- [[SlamFace DoorKnob]], [[Sue Fuqs]], [[Bendrankda Catwadder]]
+
+
+- Party met up on road outside [[Ronan Calesh]]'s Shack
 - stayed the night
-- embarked on journey to Vareth's Cut
+- embarked on journey to [[Vareth's Cut]]
 - Troubleshoot blocked path
-	- Grul Ironfoot fell but was ok
+	- [[Grul Ironfoot]] fell but was ok
 - Found crater, got meteorite metal
 	- Sue Danced to distract giant scorpion
 - Found murder scene
