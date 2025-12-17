@@ -47,9 +47,3 @@
 - Near [[Vareth's Cut]]
 	- In an echo chamber carved out of the canyon wall, they hear a ranting and raving voice coming out
 	- Its [[The Mad Prophet of The Cut]]
-- [[Vareth's Cut]] Arrival 
-	- paint picture of the town
-	- humidity and greenery is good
-	- dragonborn warriors are not trusting of outsiders
-	- party receives payment
-	- [[Silas 'Robert Smith' Venn]] will want to scurry away with his smuggled box.

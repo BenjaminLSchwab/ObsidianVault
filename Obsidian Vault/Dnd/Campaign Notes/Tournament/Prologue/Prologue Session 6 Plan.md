@@ -30,3 +30,9 @@
 	- Describe his body language and ranting nature
 	- describe the crowds complete enrapturement with his words
 	- "Right now! Stop listening to my words and simply hear the sound right now! You have everything you need for enlightenment right now! Forget the gods! The gods are dead the moment you stop thinking about them! Your inheritance is the entire cosmos and you needn't wait for anyone to die to take it."
+- [[Vareth's Cut]] Arrival 
+	- paint picture of the town
+	- humidity and greenery is good
+	- dragonborn warriors are not trusting of outsiders
+	- party receives payment
+	- [[Silas 'Robert Smith' Venn]] will want to scurry away with his smuggled box.
