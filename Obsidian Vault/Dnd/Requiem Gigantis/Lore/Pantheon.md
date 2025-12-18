@@ -94,7 +94,7 @@
 		- Considered like a grandmother to the god of the empire
 		    
 	
-	- [[Giant ancient network of mycilium]]
+	- [[The Deeproot Communion]]
 	    
 	
 		- Manages the evolution of ecosystems

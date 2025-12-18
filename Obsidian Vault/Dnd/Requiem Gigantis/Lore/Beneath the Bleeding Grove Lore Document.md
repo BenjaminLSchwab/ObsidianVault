@@ -1,0 +1,19 @@
+- A little about the Larrell
+	- Tree worshippers
+	- Ancient covenent they uphold in exchange for long life and strong magic
+	- Kinda racist (very racist)
+- A little about the Urokgard
+	- the tribes united blah blah
+	- mandate of heaven blah blah
+	- they been winning a lot lately
+	- grinding in they sleep
+- Conflict between [[Urokgard]] and [[Larrel Sovereignty]]
+	- The Urokgard gained large chunks of forest in a peace settlement at the end of their last conflict, about 40 years ago
+- Since then, [[Warlord Grommash Bloodtusk]] decided to clear some forest to make grazing lands for the herds and see about mining opportunities
+	- His workers clearing forest stumbled upon an area where mushrooms grew back unnaturally fast. Cutting the mushrooms causes them to regrow overnight, larger.
+	- Workers who touched certain varieties fell ill. They got fever, hallucinations, weakness.
+	- The stone entrance, exposed by a fallen ancient tree.
+	- Grommash sent 8 warriors (5 orcs, 3 goblins) to investigate. They entered three days ago and haven't returned. Smoke from their torches was seen for the first day, then nothing.
+	- Grommash suspects they encountered something that killed them.
+- Grommash contracted with the[[ adventurer's guild]] to find out what happened to his original party, and get any valuable loot from within
+	- The adventurers get to keep a third, a third goes to Grommash, and a third goes to [[the High Urok ]]

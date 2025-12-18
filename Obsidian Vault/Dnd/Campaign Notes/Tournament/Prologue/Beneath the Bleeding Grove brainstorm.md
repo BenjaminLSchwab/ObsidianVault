@@ -12,7 +12,7 @@
 		- The warlord will keep 1/3, 1/3 goes to the high urok, and 1/3 is kept by the party
 - Whats waiting for the party
 	- This crypt is the burial site of a group of elves dating back to the late [[Fourth Age]]
-		- They were worshipers of [[Giant ancient network of mycilium]]
+		- They were worshipers of [[The Deeproot Communion]]
 	- Undead / mushroom themed dungeon
 		- Poison spores
 		- mushroom zombies
@@ -52,3 +52,4 @@
 			- The tree worshippers stayed on the surface and became the Larrel, the mushroom worshippers went into the [[Underdark]] and became the [[Dark Elves]]
 		- Nearby, they find a long spiraling staircase made of roots and mycelium
 			- It goes into the underdark, and who knows what's down there
+See 

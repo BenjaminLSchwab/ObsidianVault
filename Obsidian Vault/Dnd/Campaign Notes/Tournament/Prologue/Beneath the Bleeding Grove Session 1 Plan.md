@@ -1,0 +1,9 @@
+- TODO:
+	- Flesh out Orc warlord who gave out quest: [[Warlord Grommash Bloodtusk]]
+	- Flesh out an interesting goblin who is representing the warlord in the group
+		- maybe based off the nephew in soppranos
+	- Come up with an intro scene that is interesting and allows characters to get to know eachother
+	- Lore document: [[Beneath the Bleeding Grove Lore Document]]
+	- Detailed map of dungeon
+	- Flesh out lore of The [[The Deeproot Communion]]
+	- 
