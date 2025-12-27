@@ -10,3 +10,5 @@
 
 - Party meets at the semi permanent camp of orc herdsmen
 	- There, they meet [[Grobli Smackums]]
+- They make their way to [[The Bleeding Grove]] 
+- They descend into [[Bleeding Grove Crypt]]

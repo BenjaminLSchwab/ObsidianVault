@@ -1,0 +1,27 @@
+- 5 room dungeon
+	- 1 Entrance puzzle
+		- small cave room has a stone door on the opposite side the players enter
+		- Puzzle: There is a stone button on the door, and four pedestals, each with a button
+			- The pedestals each have an elvish word on them:
+				- Spore (1)
+				- Mycelium network (3)
+				- Germination (4)
+				- Fruiting body (mushroom) (4)
+			- The pedestals will glow after being pressed, and pressing the button on the door will enter the combination
+			- The pedestals must be pressed in the correct order, then the door button
+				- Incorrect combo will result in poison spores being released into the room (CON save dc 16, D8 poison dmg)
+	-  2 Guardian
+		- The previous party of orcs and goblins have been made into mushroom zombies that will attack the players
+	- 3 Setback or trick
+		- Maybe the players find a dead elf who has a bunch of shiny loot on him
+			- When they touch the elf, he drains some of their life force and becomes reanimated, fight ensues
+	- 4 Climax
+		- The party finds the main burial chamber for these elves, and is able to commune with the ancient network
+		- The network is pissed that they came to loot, and sends a bunch of zombie mushrooms at them
+		- big interesting fight space with tree roots, waterfall, and coffins that might come open if disturbed
+	- 5 Reward, learning more info, option for [[Underdark]]
+		- Big pile of loot, some enchanted items
+		- among the loot, the party finds a journal of one of the elves that details the schism between the tree worshiping elves and the mushroom worshippers
+			- The tree worshippers stayed on the surface and became the Larrel, the mushroom worshippers went into the [[Underdark]] and became the [[Dark Elves]]
+		- Nearby, they find a long spiraling staircase made of roots and mycelium
+			- It goes into the underdark, and who knows what's down there
