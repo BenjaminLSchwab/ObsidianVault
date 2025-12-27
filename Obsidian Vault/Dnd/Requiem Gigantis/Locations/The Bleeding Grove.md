@@ -1,0 +1,13 @@
+
+- Mushrooms, dozens of varieties, some bioluminescent, some with gills that weep milky fluid, others tall as small trees.
+- The air is thick, humid, smelling of rich earth and decay. Spores drift like snow.
+- The Mushroom Barrier: A ring of particularly large, pale mushrooms surrounds the actual entrance
+	- Touching or cutting these mushrooms releases poison spores in a 10-foot radius:
+		- CON save DC 14
+			- On fail: 2d6 poison damage, disadvantage on ability checks for 1 hour
+			- On success: Half damage, no disadvantage
+	- Navigation options:
+		- Careful navigation: Acrobatics or Stealth check (DC 13) to avoid touching mushrooms
+		- Fire: Burning the mushrooms releases even MORE spores (everyone makes saves), but clears a path
+		- Nature/Arcana check (DC 15): Recognize these as "Guardian Caps"—they respond to vibration. Move slowly and quietly (no running, no loud noises) and they won't activate
+		- Talk to them: A druid or character with speak with plants can negotiate.

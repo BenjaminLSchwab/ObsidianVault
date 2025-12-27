@@ -1,4 +1,5 @@
 - Goblin that works for [[Warlord Grommash Bloodtusk]]
 - Low level, wants to earn his place badly
 - Is kinda dumb
+- loosely based on christopher from sopranos
 - 

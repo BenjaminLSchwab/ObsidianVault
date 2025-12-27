@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "The Bleeding Grove",
+      "path": "Dnd/Requiem Gigantis/Locations/The Bleeding Grove.md"
+    },
+    {
       "basename": "Grobli Smackums",
       "path": "Grobli Smackums.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Garrett Moss",
       "path": "Dnd/Requiem Gigantis/Characters/Garrett Moss.md"
-    },
-    {
-      "basename": "The Wastes",
-      "path": "Art/The Wastes.jpg"
     }
   ],
   "omittedPaths": [],
