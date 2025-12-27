@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bleeding Grove Crypt.md",
+                "file": "Dnd/Requiem Gigantis/Locations/The Bleeding Grove.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bleeding Grove Crypt"
+              "title": "The Bleeding Grove"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "Beneath the Bleeding Grove Session 1 Plan"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,12 +218,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f176ef58255a707",
+  "active": "92e2a25a5abb0aa3",
   "lastOpenFiles": [
     "Dnd/Campaign Notes/Tournament/Prologue/Beneath the Bleeding Grove brainstorm.md",
-    "Dnd/Campaign Notes/Tournament/Prologue/Beneath the Bleeding Grove Session 1 Plan.md",
-    "Bleeding Grove Crypt.md",
     "Dnd/Requiem Gigantis/Locations/The Bleeding Grove.md",
+    "Bleeding Grove Crypt.md",
+    "Dnd/Campaign Notes/Tournament/Prologue/Beneath the Bleeding Grove Session 1 Plan.md",
     "TheBleedingGroveArt.png",
     "Grobli Smackums.md",
     "Dnd/Campaign Notes/Tournament/Prologue/Prologue Session 5 Plan.md",
