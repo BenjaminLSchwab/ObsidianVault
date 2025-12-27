@@ -6,4 +6,7 @@
 	- Lore document: [[Beneath the Bleeding Grove Lore Document]]
 	- Detailed map of dungeon
 	- Flesh out lore of The [[The Deeproot Communion]]
-	- 
+
+
+- Party meets at the semi permanent camp of orc herdsmen
+	- There, they meet [[Grobli Smackums]]
