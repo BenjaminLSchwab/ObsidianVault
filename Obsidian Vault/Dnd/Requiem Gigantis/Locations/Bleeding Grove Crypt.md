@@ -12,9 +12,11 @@
 				- Incorrect combo will result in poison spores being released into the room (CON save dc 16, D8 poison dmg)
 	-  2 Guardian
 		- The previous party of orcs and goblins have been made into mushroom zombies that will attack the players
+			- 4 zombies is an easy battle
 	- 3 Setback or trick
 		- Maybe the players find a dead elf who has a bunch of shiny loot on him
 			- When they touch the elf, he drains some of their life force and becomes reanimated, fight ensues
+				- Undead elf + 1 zombie = hard fight
 	- 4 Climax
 		- The party finds the main burial chamber for these elves, and is able to commune with the ancient network
 		- The network is pissed that they came to loot, and sends a bunch of zombie mushrooms at them
