@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dnd/Requiem Gigantis/Locations/Bleeding Grove Crypt.md",
+                "file": "Dnd/Campaign Notes/Tournament/Prologue/Beneath the Bleeding Grove Session 1 Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bleeding Grove Crypt"
+              "title": "Beneath the Bleeding Grove Session 1 Plan"
             }
           },
           {
@@ -232,16 +232,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "139bd2046dda9f3f",
+  "active": "b0698b632787b9e9",
   "lastOpenFiles": [
+    "Dnd/Requiem Gigantis/Locations/The Crossed Axes Inn.md",
     "Dnd/Campaign Notes/Tournament/Prologue/Beneath the Bleeding Grove Session 1 Plan.md",
+    "Dnd/Requiem Gigantis/Characters/Anaximander.md",
+    "Dnd/Requiem Gigantis/Locations/The Bleeding Grove.md",
+    "Dnd/Requiem Gigantis/Locations/Bleeding Grove Crypt.md",
     "Dnd/Requiem Gigantis/Characters/Warlord Grommash Bloodtusk.md",
     "Dnd/Campaign Notes/Tournament/Prologue/Beneath the Bleeding Grove brainstorm.md",
-    "Dnd/Requiem Gigantis/Locations/The Bleeding Grove.md",
     "Dnd/Requiem Gigantis/Characters/Grobli Smackums.md",
     "Art/GrobliSmackumsPortrait.png",
     "Dnd/Campaign Notes/AI Gen Prompts.md",
-    "Dnd/Requiem Gigantis/Locations/Bleeding Grove Crypt.md",
     "Art/TheBleedingGroveArt.png",
     "Dnd/Campaign Notes/Tournament/Prologue/Prologue Session 5 Plan.md",
     "Dnd/Campaign Notes/Tournament/Prologue/Prologue Session 5 Notes.md",
@@ -261,7 +263,6 @@
     "Dnd/Requiem Gigantis/Characters/PCs/Bendrankda Catwadder.md",
     "Dnd/Requiem Gigantis/Characters/Legends/Bathtub Man.md",
     "Art/BathtubMan Portrait.png",
-    "Dnd/Requiem Gigantis/Characters/Silas 'Robert Smith' Venn.md",
     "Art/JamesWalker 1.png",
     "Art/Bendrankda Portrait.png",
     "Art/Slamface Portrait.jpg",

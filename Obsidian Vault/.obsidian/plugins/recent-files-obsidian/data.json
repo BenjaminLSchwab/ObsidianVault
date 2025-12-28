@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Bleeding Grove Crypt",
-      "path": "Dnd/Requiem Gigantis/Locations/Bleeding Grove Crypt.md"
-    },
-    {
       "basename": "Beneath the Bleeding Grove Session 1 Plan",
       "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath the Bleeding Grove Session 1 Plan.md"
+    },
+    {
+      "basename": "The Crossed Axes Inn",
+      "path": "Dnd/Requiem Gigantis/Locations/The Crossed Axes Inn.md"
+    },
+    {
+      "basename": "Anaximander",
+      "path": "Dnd/Requiem Gigantis/Characters/Anaximander.md"
+    },
+    {
+      "basename": "The Bleeding Grove",
+      "path": "Dnd/Requiem Gigantis/Locations/The Bleeding Grove.md"
+    },
+    {
+      "basename": "Bleeding Grove Crypt",
+      "path": "Dnd/Requiem Gigantis/Locations/Bleeding Grove Crypt.md"
     },
     {
       "basename": "Warlord Grommash Bloodtusk",
@@ -15,10 +27,6 @@
     {
       "basename": "Beneath the Bleeding Grove brainstorm",
       "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath the Bleeding Grove brainstorm.md"
-    },
-    {
-      "basename": "The Bleeding Grove",
-      "path": "Dnd/Requiem Gigantis/Locations/The Bleeding Grove.md"
     },
     {
       "basename": "Grobli Smackums",
@@ -191,14 +199,6 @@
     {
       "basename": "Test Session 4 Brainstorm",
       "path": "Dnd/Campaign Notes/Tournament/Prologue/Test Session 4 Brainstorm.md"
-    },
-    {
-      "basename": "Urokgard",
-      "path": "Dnd/Requiem Gigantis/Nations/Urokgard.md"
-    },
-    {
-      "basename": "Vareth's Cut",
-      "path": "Dnd/Requiem Gigantis/Cities/Vareth's Cut.md"
     }
   ],
   "omittedPaths": [],
