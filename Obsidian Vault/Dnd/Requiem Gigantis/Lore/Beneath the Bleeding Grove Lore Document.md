@@ -3,10 +3,9 @@
 	- Ancient covenent they uphold in exchange for long life and strong magic
 	- Kinda racist (very racist)
 - A little about the Urokgard
-	- the tribes united blah blah
-	- mandate of heaven blah blah
+	- the tribes united 
+	- mandate of heaven 
 	- they been winning a lot lately
-	- grinding in they sleep
 - Conflict between [[Urokgard]] and [[Larrel Sovereignty]]
 	- The Urokgard gained large chunks of forest in a peace settlement at the end of their last conflict, about 40 years ago
 - Since then, [[Warlord Grommash Bloodtusk]] decided to clear some forest to make grazing lands for the herds and see about mining opportunities

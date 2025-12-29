@@ -5,7 +5,7 @@
 			- The pedestals each have an elvish word on them:
 				- Spore (1)
 				- Mycelium network (3)
-				- Germination (4)
+				- Germination (2)
 				- Fruiting body (mushroom) (4)
 			- The pedestals will glow after being pressed, and pressing the button on the door will enter the combination
 			- The pedestals must be pressed in the correct order, then the door button

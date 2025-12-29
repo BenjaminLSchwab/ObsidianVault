@@ -1,5 +1,4 @@
 - TODO:
-	- Flesh out Orc warlord who gave out quest: [[Warlord Grommash Bloodtusk]]
 	- Lore document: [[Beneath the Bleeding Grove Lore Document]]
 	- Detailed map of dungeon
 	- Flesh out [[Anaximander]]
