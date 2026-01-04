@@ -61,4 +61,8 @@
 		- Party notices a strange multi colored steam rising out of a nearby side chamber in the hallway
 		- strange humming
 		- Its bathtub man
-	- 
+	- Node Chamber
+		- describe it as feeling like the center
+		- mushroomy guys hanging out everywhere
+		- it seems they are just watching the party, without moving
+		- 
