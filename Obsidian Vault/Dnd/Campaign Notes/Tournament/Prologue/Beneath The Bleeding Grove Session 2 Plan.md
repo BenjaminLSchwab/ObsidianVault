@@ -1,0 +1,64 @@
+
+- Brainstorm
+	- Introduce [[Anaximander]]
+		- he is already inside dungeon, hiding from zombies
+		- "Oh thank heavens"
+		- will offer reward for historically interesting artifacts
+			- reward can be teaching wizard a spell
+			- or a choice of magic scroll
+			- party will later find journal 
+	- [[Bathtub Man]]
+	- more interesting battle arena
+		- Sleeping elf thing
+			- drops journal
+			- have journal entry ready
+		- pits, water
+		- big mushrooms that poison nearby dudes
+		- sleeping zombies that wake up if disturbed
+	- have [[The Deeproot Communion]] ready to rp
+		- portrait
+		- some talking points
+			- who is he
+			- what does he want
+		- possible reward / punishment 
+			- maybe it will try to get them to close off the crypt?
+			- maybe it will 
+	- have some loot planned
+		- 
+	- maybe one more puzzle?
+		- entry into underdark from dungeon
+- Actual Plan
+	- Party finds Anaximander hiding in a corner
+		- "Oh thank heavens"
+		- will offer reward for historically interesting artifacts
+			- reward can be teaching wizard a spell
+			- or a choice of magic scroll
+		- About the Site: "This is definitely Fourth Age, mushroom cult architecture, the inscriptions reference the Deeproot Communion explicitly!"
+		- His Offer: "I'll pay handsomely for any artifacts, journals, or rubbings of inscriptions you find! I can offer... [to wizard] I could teach you a spell from my research! Or [to anyone] I have scrolls, magical scrolls, quite valuable!"
+		- Warning: "The deeper you go, the more active the fungal growth becomes. I suspect we're approaching a Deeproot node—a concentrated nexus of mycological consciousness. It may be... aware of us."
+		- His Plan: "I'm going to wait here. Document the entrance chamber. Very important work. Definitely not cowardice. You continue ahead—I'll be perfectly safe here with the... [looks at dead zombies] ...recently deceased."
+	- Offering Chamber Room
+		- The Altar (center): Stone altar with the sleeping elf atop it, surrounded by treasure
+		- Poison Pits (2): One on each side of the room, 10 feet across, 15 feet deep, filled with churning brown liquid (decomposition fluid). Mushrooms grow on the edges. Anyone who falls in:
+			- Takes 2d6 bludgeoning damage (fall)
+			- Must make CON save DC 14 or take 3d6 poison damage and be poisoned for 1 hour
+			- Climbing out requires Athletics DC 13 (slippery walls)
+		- Giant Mushrooms (4): Growing from the floor, 8 feet tall with broad caps.
+			- Provide half cover
+			- If damaged (AC 10, 10 HP each): Explode in 10-foot radius spore cloud
+				- CON save DC 15 or take 2d8 poison damage and poisoned for 1 minute
+				- Cloud lingers for 1 round
+		- Sleeping Zombies (4): In alcoves along walls, standing upright, covered in fungal growth, dormant
+			- Activate if noise exceeds a certain level (shouting, explosions, etc.)
+			- Or if someone steps within 5 feet of their alcoves
+		- Journal Entry:
+			- Describes the deeproot communion, and how it was being purged by the Larrell Soverignty early on.
+			- The followers of the communion increasingly fled underground and found other places to hide
+			- they were losing a religious war
+			- The worshippers of Sylveth were trying to erase their origin, the one who came before and designed the ecosystem that the great trees would thrive in
+			- "They call us heretics. Corrupted. Servants of decay. They do not understand—or will not. Sylveth offers immortality through servitude: your consciousness absorbed into the Root-Throne, aware but never free, serving the tree's will for eternity. We are promised we become part of something greater. But what greater thing wants slaves? The Deeproot offers something honest: Feed your body to the network, and your essence spreads across infinite fungal threads. You experience every death and every new growth. You become the decomposer and the decomposed. Not servitude—dissolution. Not slavery—freedom from self. Grandfather remembers when the choice was honored, before Sylveth's covenant consumed all alternatives. The Deeproot is older than the Root-Throne by ages uncounted. It does not demand worship. It does not require temples or priests. It simply is—the eternal cycle of growth through decay, life through death. We descend tomorrow. Thirty-two of us remain. The tunnels beneath the forest will shelter us where Sylveth's roots cannot reach. In the deep places, the Deeproot thrives. We will build new shrines. Teach our children the old ways. And perhaps, in time, the surface will remember what it chose to forget. If you find this, know: We were not corrupted. We chose. And in the darkness, we found truth."
+	- Bathtub Man
+		- Party notices a strange multi colored steam rising out of a nearby side chamber in the hallway
+		- strange humming
+		- Its bathtub man
+	- 
