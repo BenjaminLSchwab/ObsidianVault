@@ -1,0 +1,8 @@
+- member of the maximus family, nobility of the [[The Holy Shard Empire]] 
+- 73 years old
+- retired to [[Fort Maximus]] high in the [[Titan Steps Range]] after selling his significant assets in the Passerelle region
+	- styled after a dwarven fortress, but is much smaller and more decorative than actually fortified
+	- staffed by a mix of human servants, as well as a halfling posing as a dwarf with a fake beard 
+- Is a dwarfaboo, always talks about his trip to Steelbeard bastion, and how things are better in dwarf culture
+	- collects dwarven art and trinkets
+- 
