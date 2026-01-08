@@ -1,0 +1,29 @@
+- [[Urist Greenleaf]]
+	- Will's Character
+	- Dwarf Druid
+	- from wilderness SW of [[Unnenwald]]
+	- badgers for friends
+	- captured as wild shaped badger
+	- experimented on
+	- stuck as badger for many years
+	- works for wizard academy
+		- hunts down magic users
+	- pet badgers
+		- Chunt
+		- Bruno
+		- sprout
+- [[Mayra Goldwood]]
+	- Raisa's Character
+	- Human Sorcerer
+	- from a far away land
+		- small city called [[Calphor]]
+		- magic outlawed if you don't work for the lord of the city
+		- those caught are exiled 
+	- caught using magic
+	- guards caught her using magic and arrested her
+	- taken to be burned at the stake
+	- used illusion magic to escape
+	- lives chatelain life
+	- drinks heavily
+	- sassy
+	- similar personality to main character of Castlevainia 
