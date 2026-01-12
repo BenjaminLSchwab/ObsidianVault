@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dnd/Campaign Notes/Tournament/Prologue/Frozen thing/Character Creation.md",
+                "file": "Dnd/Requiem Gigantis/Locations/The Bleeding Grove.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Character Creation"
+              "title": "The Bleeding Grove"
+            }
+          },
+          {
+            "id": "0b73125b52d1fdeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dnd/Requiem Gigantis/Characters/Anaximander.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anaximander"
+            }
+          },
+          {
+            "id": "d7622ee28331c474",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dnd/Requiem Gigantis/Characters/Gods/The Deeproot Communion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Deeproot Communion"
             }
           }
         ]
@@ -191,9 +219,17 @@
   },
   "active": "2f176ef58255a707",
   "lastOpenFiles": [
+    "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Beneath the Bleeding Grove Session 1 Plan.md",
+    "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Beneath the Bleeding Grove brainstorm.md",
+    "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Beneath The Bleeding Grove Session 2 Plan.md",
+    "Dnd/Requiem Gigantis/Characters/Anaximander.md",
+    "Dnd/Requiem Gigantis/Characters/Gods/The Deeproot Communion.md",
+    "Dnd/Requiem Gigantis/Characters/Grobli Smackums.md",
+    "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Bleeding Grove seesion 1 notes.md",
+    "Dnd/Requiem Gigantis/Characters/Democritus Maximus.md",
     "Dnd/Campaign Notes/Tournament/Prologue/Frozen thing/Frozen Adventure Brainstorm.md",
+    "Dnd/Campaign Notes/Tournament/Prologue/Frozen thing/Lore Handout.md",
     "Dnd/Campaign Notes/Tournament/Prologue/Frozen thing/Character Creation.md",
-    "Democritus Maximus.md",
     "Dnd/Campaign Notes/Tournament/Prologue/Test session 3 notes.md",
     "Dnd/Campaign Notes/Tournament/Prologue/Frozen thing",
     "Dnd/Campaign Notes/Tournament/Prologue/Character Creation Joe Tucker Girton Notes.md",
@@ -206,22 +242,14 @@
     "Dnd/Campaign Notes/Tournament/Prologue/Adventure in Newala Canyon/Character Creation Notes 12-4-2025.md",
     "Dnd/Campaign Notes/Tournament/Prologue/Adventure in Newala Canyon/Prologue Session 5 Notes.md",
     "Dnd/Campaign Notes/Tournament/Prologue/Adventure in Newala Canyon",
-    "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Beneath the Bleeding Grove brainstorm.md",
-    "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Beneath The Bleeding Grove Session 2 Plan.md",
     "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove",
-    "Dnd/Requiem Gigantis/Characters/Anaximander.md",
-    "Dnd/Requiem Gigantis/Characters/Gods/The Deeproot Communion.md",
     "Cosmic Network.png",
-    "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Beneath the Bleeding Grove Session 1 Plan.md",
     "Dnd/Requiem Gigantis/Locations/The Bleeding Grove.md",
     "Dnd/Requiem Gigantis/Locations/Bleeding Grove Crypt.md",
-    "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Bleeding Grove seesion 1 notes.md",
     "Dnd/Requiem Gigantis/Locations/The Crossed Axes Inn.md",
-    "Dnd/Requiem Gigantis/Characters/Grobli Smackums.md",
     "Dnd/Requiem Gigantis/Characters/PCs/Bandit King.md",
     "Dnd/Requiem Gigantis/Lore/Beneath the Bleeding Grove Lore Document.md",
     "Art/AnaxomanderPortrait.png",
-    "Dnd/Requiem Gigantis/Characters/Warlord Grommash Bloodtusk.md",
     "Art/GrobliSmackumsPortrait.png",
     "Art/TheBleedingGroveArt.png",
     "Art/BathtubMan Portrait.png",
