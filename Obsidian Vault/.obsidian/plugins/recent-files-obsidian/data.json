@@ -1,20 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "The Bleeding Grove",
-      "path": "Dnd/Requiem Gigantis/Locations/The Bleeding Grove.md"
+      "basename": "Fort Maximus",
+      "path": "Fort Maximus.md"
     },
     {
-      "basename": "Beneath the Bleeding Grove Session 1 Plan",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Beneath the Bleeding Grove Session 1 Plan.md"
+      "basename": "Democritus Maximus",
+      "path": "Dnd/Requiem Gigantis/Characters/Democritus Maximus.md"
+    },
+    {
+      "basename": "Frozen Adventure Brainstorm",
+      "path": "Dnd/Campaign Notes/Tournament/Prologue/Frozen thing/Frozen Adventure Brainstorm.md"
+    },
+    {
+      "basename": "Helm's Mantle",
+      "path": "Dnd/Requiem Gigantis/Items/Helm's Mantle.md"
+    },
+    {
+      "basename": "Lore Handout",
+      "path": "Dnd/Campaign Notes/Tournament/Prologue/Frozen thing/Lore Handout.md"
+    },
+    {
+      "basename": "Character Creation",
+      "path": "Dnd/Campaign Notes/Tournament/Prologue/Frozen thing/Character Creation.md"
+    },
+    {
+      "basename": "Session 2 Notes",
+      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Session 2 Notes.md"
     },
     {
       "basename": "Beneath the Bleeding Grove brainstorm",
       "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Beneath the Bleeding Grove brainstorm.md"
     },
     {
+      "basename": "Beneath the Bleeding Grove Session 1 Plan",
+      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Beneath the Bleeding Grove Session 1 Plan.md"
+    },
+    {
       "basename": "Beneath The Bleeding Grove Session 2 Plan",
       "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Beneath The Bleeding Grove Session 2 Plan.md"
+    },
+    {
+      "basename": "Bleeding Grove seesion 1 notes",
+      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Bleeding Grove seesion 1 notes.md"
+    },
+    {
+      "basename": "Austerio",
+      "path": "Dnd/Requiem Gigantis/Characters/PCs/Austerio.md"
+    },
+    {
+      "basename": "The Bleeding Grove",
+      "path": "Dnd/Requiem Gigantis/Locations/The Bleeding Grove.md"
     },
     {
       "basename": "Anaximander",
@@ -27,26 +63,6 @@
     {
       "basename": "Grobli Smackums",
       "path": "Dnd/Requiem Gigantis/Characters/Grobli Smackums.md"
-    },
-    {
-      "basename": "Bleeding Grove seesion 1 notes",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Bleeding Grove seesion 1 notes.md"
-    },
-    {
-      "basename": "Democritus Maximus",
-      "path": "Dnd/Requiem Gigantis/Characters/Democritus Maximus.md"
-    },
-    {
-      "basename": "Frozen Adventure Brainstorm",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Frozen thing/Frozen Adventure Brainstorm.md"
-    },
-    {
-      "basename": "Lore Handout",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Frozen thing/Lore Handout.md"
-    },
-    {
-      "basename": "Character Creation",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Frozen thing/Character Creation.md"
     },
     {
       "basename": "Test session 3 notes",
@@ -161,10 +177,6 @@
       "path": "Dnd/Requiem Gigantis/Characters/PCs/Big Dick Zaddy.md"
     },
     {
-      "basename": "Austerio",
-      "path": "Dnd/Requiem Gigantis/Characters/PCs/Austerio.md"
-    },
-    {
       "basename": "Bendrankda Portrait",
       "path": "Art/Bendrankda Portrait.png"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Kael Orun, the Gilded Reclaimer",
       "path": "Dnd/Requiem Gigantis/Characters/Gods/Kael Orun, the Gilded Reclaimer.md"
-    },
-    {
-      "basename": "Vidga Range",
-      "path": "Dnd/Requiem Gigantis/Regions/Vidga Range.md"
-    },
-    {
-      "basename": "Arbormere",
-      "path": "Dnd/Requiem Gigantis/Cities/Arbormere.md"
-    },
-    {
-      "basename": "Sylveth, The Eternal Arbor",
-      "path": "Dnd/Requiem Gigantis/Characters/Gods/Sylveth, The Eternal Arbor.md"
     }
   ],
   "omittedPaths": [],

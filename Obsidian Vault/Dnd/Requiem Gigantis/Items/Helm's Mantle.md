@@ -1,0 +1,2 @@
+A shield covered in dwarven runes
+- Once per day, the runes can be activated to create an impenetrable translucent shield with a radius of 15 feet. The shield is active for 1 hour or until deactivated.

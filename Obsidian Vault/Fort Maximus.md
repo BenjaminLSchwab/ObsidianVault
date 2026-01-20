@@ -1,0 +1,21 @@
+ [[Democritus Maximus]]' Retreat high in the [[Titan Steps Range]] 
+- Visual Description
+	- styled after a dwarven fortress, but is much smaller and more decorative than actually fortified
+- staff
+	- a mix of human servants
+	- [[Gwimbly]], a Halfling posing as a dwarf with a fake beard
+	- A snobby human who is the manager of the house or head butler
+	- A head guard with a sense of duty and honor, doesn't actually like Democritus that much but swore an oath to his family and is serving it out
+		- drinks too much, uneasy without a fight or an enemy
+- List of rooms
+	- Main entry
+	- Guest quarters
+	- Servants quarters
+	- Kitchen
+	- Vault
+		- [[Helm's Mantle]] is in here
+	- Art Gallery
+	- smoking room
+	- Winter Garden
+		- Greenhouse
+- 

@@ -18,3 +18,11 @@
 - The snows are still quite high, and a trip down the mountain pass would be nearly impossible
 - The abandoned mine will be a play on the mines of Moria, complete with dead dwarves and goblins looking to kill them
 	- finale will be a collapsing bridge with archers shooting at them, and a giant fire beast chasing them
+- Todo:
+	- Flesh out [[Democritus Maximus]]
+		- Get portrait
+	- Make a crude map of [[Fort Maximus]]
+	- Decide on what the artifact they are looking for is
+		- [[Helm's Mantle]]
+	- Figure out balance of fight with guards
+	- Come up with a couple dilemmas to encounter out in the snowy expanse
