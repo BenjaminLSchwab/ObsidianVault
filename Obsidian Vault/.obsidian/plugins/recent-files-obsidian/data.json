@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "Fifth Age",
+      "path": "Dnd/Requiem Gigantis/Lore/Fifth Age.md"
+    },
+    {
+      "basename": "Lore Handout for Test Session 4",
+      "path": "Dnd/Requiem Gigantis/Lore/Lore Handout for Test Session 4.md"
+    },
+    {
+      "basename": "The Incident at Fort Maximus Lore Handout",
+      "path": "Dnd/Campaign Notes/Tournament/Prologue/The Incident at Fort Maximus/The Incident at Fort Maximus Lore Handout.md"
+    },
+    {
+      "basename": "Beneath the Bleeding Grove Lore Document",
+      "path": "Dnd/Requiem Gigantis/Lore/Beneath the Bleeding Grove Lore Document.md"
+    },
+    {
+      "basename": "AI Gen Prompts",
+      "path": "Dnd/Campaign Notes/AI Gen Prompts.md"
+    },
+    {
+      "basename": "Session 1 Plan",
+      "path": "Dnd/Campaign Notes/Tournament/Prologue/The Incident at Fort Maximus/Session 1 Plan.md"
+    },
+    {
+      "basename": "The Incident at Fort Maximus Brainstorm",
+      "path": "Dnd/Campaign Notes/Tournament/Prologue/The Incident at Fort Maximus/The Incident at Fort Maximus Brainstorm.md"
+    },
+    {
+      "basename": "Session 4 Plan",
+      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Session 4 Plan.md"
+    },
+    {
+      "basename": "Beneath the Bleeding Grove brainstorm",
+      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Beneath the Bleeding Grove brainstorm.md"
+    },
+    {
+      "basename": "Beneath the Bleeding Grove Session 1 Plan",
+      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Beneath the Bleeding Grove Session 1 Plan.md"
+    },
+    {
+      "basename": "Beneath The Bleeding Grove Session 2 Plan",
+      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Beneath The Bleeding Grove Session 2 Plan.md"
+    },
+    {
+      "basename": "Session 3 Notes",
+      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Session 3 Notes.md"
+    },
+    {
       "basename": "Democritus Maximus",
       "path": "Dnd/Requiem Gigantis/Characters/Democritus Maximus.md"
     },
@@ -11,10 +59,6 @@
     {
       "basename": "Fort Maximus",
       "path": "Fort Maximus.md"
-    },
-    {
-      "basename": "AI Gen Prompts",
-      "path": "Dnd/Campaign Notes/AI Gen Prompts.md"
     },
     {
       "basename": "Quartum",
@@ -33,22 +77,6 @@
       "path": "Dnd/Requiem Gigantis/Lore/Pantheon.md"
     },
     {
-      "basename": "Beneath the Bleeding Grove Lore Document",
-      "path": "Dnd/Requiem Gigantis/Lore/Beneath the Bleeding Grove Lore Document.md"
-    },
-    {
-      "basename": "Lore Handout for Test Session 4",
-      "path": "Dnd/Requiem Gigantis/Lore/Lore Handout for Test Session 4.md"
-    },
-    {
-      "basename": "Frozen Adventure Brainstorm",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Fort Maximus/Frozen Adventure Brainstorm.md"
-    },
-    {
-      "basename": "Lore Handout",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Fort Maximus/Lore Handout.md"
-    },
-    {
       "basename": "Will and raisa Character Creation",
       "path": "Dnd/Campaign Notes/Tournament/Prologue/Will and raisa Character Creation.md"
     },
@@ -65,28 +93,12 @@
       "path": "Dnd/Requiem Gigantis/Cities/Pharus.md"
     },
     {
-      "basename": "Session 3 Notes",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Session 3 Notes.md"
-    },
-    {
       "basename": "Warlord Grommash Bloodtusk",
       "path": "Dnd/Requiem Gigantis/Characters/Warlord Grommash Bloodtusk.md"
     },
     {
       "basename": "Session 2 Notes",
       "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Session 2 Notes.md"
-    },
-    {
-      "basename": "Beneath the Bleeding Grove brainstorm",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Beneath the Bleeding Grove brainstorm.md"
-    },
-    {
-      "basename": "Beneath the Bleeding Grove Session 1 Plan",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Beneath the Bleeding Grove Session 1 Plan.md"
-    },
-    {
-      "basename": "Beneath The Bleeding Grove Session 2 Plan",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Beneath The Bleeding Grove Session 2 Plan.md"
     },
     {
       "basename": "Bleeding Grove seesion 1 notes",
@@ -187,18 +199,6 @@
     {
       "basename": "Bendrankda Catwadder",
       "path": "Dnd/Requiem Gigantis/Characters/PCs/Bendrankda Catwadder.md"
-    },
-    {
-      "basename": "Bathtub Man",
-      "path": "Dnd/Requiem Gigantis/Characters/Legends/Bathtub Man.md"
-    },
-    {
-      "basename": "Silas 'Robert Smith' Venn",
-      "path": "Dnd/Requiem Gigantis/Characters/Silas 'Robert Smith' Venn.md"
-    },
-    {
-      "basename": "James Walker Griffith",
-      "path": "Dnd/Requiem Gigantis/Characters/PCs/James Walker Griffith.md"
     }
   ],
   "omittedPaths": [],
