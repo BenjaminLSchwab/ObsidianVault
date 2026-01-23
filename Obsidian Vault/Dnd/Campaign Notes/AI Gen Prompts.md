@@ -6,4 +6,4 @@ Dnd character art, sketchy illustration. Warhammer Old World, RPG character desi
 Help me flesh out this character for DnD. Provide a visual description, backstory, character traits, and example dialogue based on the following description:
 
 ## General Concept Art
-Concept Art by Alan Lee, Bram Sels, Romas Kukalis
+Concept Art by Alan Lee, Bram Sels, Romas Kukalis, 32 bit pixel art

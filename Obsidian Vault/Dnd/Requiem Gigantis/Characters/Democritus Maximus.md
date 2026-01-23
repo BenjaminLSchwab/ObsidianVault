@@ -1,6 +1,6 @@
+![[Democritus Maximus.png]]
 - member of the maximus family, nobility of the [[The Holy Shard Empire]] 
 - 73 years old
 - retired to [[Fort Maximus]] high in the [[Titan Steps Range]] after selling his significant assets in the Passerelle region
 - Is a dwarfaboo, always talks about his trip to Steelbeard bastion, and how things are better in dwarf culture
-	- collects dwarven art and trinkets, including [[Helm's Mantle]]
-- 
+	- collects dwarven art and trinkets, including [[Helm's Mantle]], an enchanted dwarven shield

@@ -1,0 +1,19 @@
+- Location : [[Quartum]] 
+- Party is returning from another adventure to turn in their quest of killing 14 goblins at the adventurers guild, nearly to the front door
+	- Suddenly, with a crash, a mass of green smashes through the roof of the guild
+	- There's a hole in the roof, and little bits of green slime are on the roof and a few got flung in every direction.
+- The slime is acidic, and little puffs of acrid smoke come from every spot where a piece landed
+	- the guildhall itself has a lot of fumes coming from the hole in the roof
+	- The wooden beams holding up the building begin to creak as they are dissolved and have trouble holding up the building
+- As the building slowly collapses, panicked townsfolk try to respond to the event
+	- This is where the party can meet [[Captain of the Guard]] 
+	- a few brave types pry open the stuck door and see that all the space inside the building is filled with slime
+		- One tries to dig his way in to look for survivors
+			- He is horribly burned to death by acid
+	- Some people form line of buckets and start dumping water on the slime as if it were a fire
+		- the slime seems to absorb the water and grow
+	- The bones of those stuck in the slime can be seen, suspended like pieces of fruit in Jello
+- The party may investigate what happened
+	- The slime flew through the air from the north
+	- A keen observer further north in the city
+		- "It wasn't flying through the air like when somebody throws something. It was more floating like, magic like"
