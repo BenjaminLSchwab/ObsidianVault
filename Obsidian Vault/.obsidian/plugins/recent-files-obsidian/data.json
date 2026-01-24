@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "Cosmic Network",
+      "path": "Art/Cosmic Network.png"
+    },
+    {
       "basename": "Orcod",
-      "path": "Orcod.md"
+      "path": "Dnd/Requiem Gigantis/Cities/Orcod.md"
     },
     {
       "basename": "AI Gen Prompts",
@@ -66,7 +70,7 @@
     },
     {
       "basename": "Fort Maximus",
-      "path": "Fort Maximus.md"
+      "path": "Dnd/Requiem Gigantis/Locations/Fort Maximus.md"
     },
     {
       "basename": "Quartum",
@@ -195,10 +199,6 @@
     {
       "basename": "SlamFace DoorKnob",
       "path": "Dnd/Requiem Gigantis/Characters/PCs/SlamFace DoorKnob.md"
-    },
-    {
-      "basename": "Sue Fuqs",
-      "path": "Dnd/Requiem Gigantis/Characters/PCs/Sue Fuqs.md"
     }
   ],
   "omittedPaths": [],
