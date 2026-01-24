@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Orcod",
+      "path": "Orcod.md"
+    },
+    {
+      "basename": "AI Gen Prompts",
+      "path": "Dnd/Campaign Notes/AI Gen Prompts.md"
+    },
+    {
+      "basename": "Warlord Grommash Bloodtusk",
+      "path": "Dnd/Requiem Gigantis/Characters/Warlord Grommash Bloodtusk.md"
+    },
+    {
+      "basename": "Session 4 Plan",
+      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Session 4 Plan.md"
+    },
+    {
+      "basename": "Beneath the Bleeding Grove Lore Document",
+      "path": "Dnd/Requiem Gigantis/Lore/Beneath the Bleeding Grove Lore Document.md"
+    },
+    {
       "basename": "Fifth Age",
       "path": "Dnd/Requiem Gigantis/Lore/Fifth Age.md"
     },
@@ -13,24 +33,12 @@
       "path": "Dnd/Campaign Notes/Tournament/Prologue/The Incident at Fort Maximus/The Incident at Fort Maximus Lore Handout.md"
     },
     {
-      "basename": "Beneath the Bleeding Grove Lore Document",
-      "path": "Dnd/Requiem Gigantis/Lore/Beneath the Bleeding Grove Lore Document.md"
-    },
-    {
-      "basename": "AI Gen Prompts",
-      "path": "Dnd/Campaign Notes/AI Gen Prompts.md"
-    },
-    {
       "basename": "Session 1 Plan",
       "path": "Dnd/Campaign Notes/Tournament/Prologue/The Incident at Fort Maximus/Session 1 Plan.md"
     },
     {
       "basename": "The Incident at Fort Maximus Brainstorm",
       "path": "Dnd/Campaign Notes/Tournament/Prologue/The Incident at Fort Maximus/The Incident at Fort Maximus Brainstorm.md"
-    },
-    {
-      "basename": "Session 4 Plan",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Session 4 Plan.md"
     },
     {
       "basename": "Beneath the Bleeding Grove brainstorm",
@@ -91,10 +99,6 @@
     {
       "basename": "Pharus",
       "path": "Dnd/Requiem Gigantis/Cities/Pharus.md"
-    },
-    {
-      "basename": "Warlord Grommash Bloodtusk",
-      "path": "Dnd/Requiem Gigantis/Characters/Warlord Grommash Bloodtusk.md"
     },
     {
       "basename": "Session 2 Notes",
@@ -195,10 +199,6 @@
     {
       "basename": "Sue Fuqs",
       "path": "Dnd/Requiem Gigantis/Characters/PCs/Sue Fuqs.md"
-    },
-    {
-      "basename": "Bendrankda Catwadder",
-      "path": "Dnd/Requiem Gigantis/Characters/PCs/Bendrankda Catwadder.md"
     }
   ],
   "omittedPaths": [],
