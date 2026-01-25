@@ -5,6 +5,14 @@
       "path": "Dnd/Requiem Gigantis/Locations/Fort Maximus.md"
     },
     {
+      "basename": "AI Gen Prompts",
+      "path": "Dnd/Campaign Notes/AI Gen Prompts.md"
+    },
+    {
+      "basename": "Democritus Maximus",
+      "path": "Dnd/Requiem Gigantis/Characters/Democritus Maximus.md"
+    },
+    {
       "basename": "Captain Aldric Thorngage",
       "path": "Captain Aldric Thorngage.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Orcod",
       "path": "Dnd/Requiem Gigantis/Cities/Orcod.md"
-    },
-    {
-      "basename": "AI Gen Prompts",
-      "path": "Dnd/Campaign Notes/AI Gen Prompts.md"
     },
     {
       "basename": "Warlord Grommash Bloodtusk",
@@ -75,10 +79,6 @@
     {
       "basename": "Session 3 Notes",
       "path": "Dnd/Campaign Notes/Beneath The Bleeding Grove/Session 3 Notes.md"
-    },
-    {
-      "basename": "Democritus Maximus",
-      "path": "Dnd/Requiem Gigantis/Characters/Democritus Maximus.md"
     },
     {
       "basename": "Helm's Mantle",
