@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dnd/Requiem Gigantis/Locations/Fort Maximus.md",
-                "mode": "preview",
+                "file": "Dnd/Campaign Notes/Beneath The Bleeding Grove/Session 4 Plan.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fort Maximus"
+              "title": "Session 4 Plan"
             }
           },
           {
@@ -205,8 +205,8 @@
   },
   "active": "9f7d5a3bcb86da79",
   "lastOpenFiles": [
-    "Dnd/Campaign Notes/AI Gen Prompts.md",
     "Dnd/Requiem Gigantis/Locations/Fort Maximus.md",
+    "Dnd/Campaign Notes/AI Gen Prompts.md",
     "Dnd/Requiem Gigantis/Characters/Democritus Maximus.md",
     "Captain Aldric Thorngage.md",
     "Cornelius Vex.md",
