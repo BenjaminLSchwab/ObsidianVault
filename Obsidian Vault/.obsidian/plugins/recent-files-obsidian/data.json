@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Fort Maximus",
+      "path": "Dnd/Requiem Gigantis/Locations/Fort Maximus.md"
+    },
+    {
+      "basename": "Captain Aldric Thorngage",
+      "path": "Captain Aldric Thorngage.md"
+    },
+    {
+      "basename": "Cornelius Vex",
+      "path": "Cornelius Vex.md"
+    },
+    {
+      "basename": "Gwimbly",
+      "path": "Gwimbly.md"
+    },
+    {
+      "basename": "Session 1 Plan",
+      "path": "Dnd/Campaign Notes/The Incident at Fort Maximus/Session 1 Plan.md"
+    },
+    {
+      "basename": "The Incident at Fort Maximus Brainstorm",
+      "path": "Dnd/Campaign Notes/The Incident at Fort Maximus/The Incident at Fort Maximus Brainstorm.md"
+    },
+    {
       "basename": "Cosmic Network",
       "path": "Art/Cosmic Network.png"
     },
@@ -18,7 +42,7 @@
     },
     {
       "basename": "Session 4 Plan",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Session 4 Plan.md"
+      "path": "Dnd/Campaign Notes/Beneath The Bleeding Grove/Session 4 Plan.md"
     },
     {
       "basename": "Beneath the Bleeding Grove Lore Document",
@@ -34,31 +58,23 @@
     },
     {
       "basename": "The Incident at Fort Maximus Lore Handout",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/The Incident at Fort Maximus/The Incident at Fort Maximus Lore Handout.md"
-    },
-    {
-      "basename": "Session 1 Plan",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/The Incident at Fort Maximus/Session 1 Plan.md"
-    },
-    {
-      "basename": "The Incident at Fort Maximus Brainstorm",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/The Incident at Fort Maximus/The Incident at Fort Maximus Brainstorm.md"
+      "path": "Dnd/Campaign Notes/The Incident at Fort Maximus/The Incident at Fort Maximus Lore Handout.md"
     },
     {
       "basename": "Beneath the Bleeding Grove brainstorm",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Beneath the Bleeding Grove brainstorm.md"
+      "path": "Dnd/Campaign Notes/Beneath The Bleeding Grove/Beneath the Bleeding Grove brainstorm.md"
     },
     {
       "basename": "Beneath the Bleeding Grove Session 1 Plan",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Beneath the Bleeding Grove Session 1 Plan.md"
+      "path": "Dnd/Campaign Notes/Beneath The Bleeding Grove/Beneath the Bleeding Grove Session 1 Plan.md"
     },
     {
       "basename": "Beneath The Bleeding Grove Session 2 Plan",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Beneath The Bleeding Grove Session 2 Plan.md"
+      "path": "Dnd/Campaign Notes/Beneath The Bleeding Grove/Beneath The Bleeding Grove Session 2 Plan.md"
     },
     {
       "basename": "Session 3 Notes",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Session 3 Notes.md"
+      "path": "Dnd/Campaign Notes/Beneath The Bleeding Grove/Session 3 Notes.md"
     },
     {
       "basename": "Democritus Maximus",
@@ -67,10 +83,6 @@
     {
       "basename": "Helm's Mantle",
       "path": "Dnd/Requiem Gigantis/Items/Helm's Mantle.md"
-    },
-    {
-      "basename": "Fort Maximus",
-      "path": "Dnd/Requiem Gigantis/Locations/Fort Maximus.md"
     },
     {
       "basename": "Quartum",
@@ -94,7 +106,7 @@
     },
     {
       "basename": "Brainstorm",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/It Came From Above/Brainstorm.md"
+      "path": "Dnd/Campaign Notes/It Came From Above/Brainstorm.md"
     },
     {
       "basename": "Pontis",
@@ -106,11 +118,11 @@
     },
     {
       "basename": "Session 2 Notes",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Session 2 Notes.md"
+      "path": "Dnd/Campaign Notes/Beneath The Bleeding Grove/Session 2 Notes.md"
     },
     {
       "basename": "Bleeding Grove seesion 1 notes",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Beneath The Bleeding Grove/Bleeding Grove seesion 1 notes.md"
+      "path": "Dnd/Campaign Notes/Beneath The Bleeding Grove/Bleeding Grove seesion 1 notes.md"
     },
     {
       "basename": "Austerio",
@@ -142,35 +154,35 @@
     },
     {
       "basename": "Test Session 4 Brainstorm",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Adventure in Newala Canyon/Test Session 4 Brainstorm.md"
+      "path": "Dnd/Campaign Notes/Adventure in Newala Canyon/Test Session 4 Brainstorm.md"
     },
     {
       "basename": "Session 7 Plan",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Adventure in Newala Canyon/Session 7 Plan.md"
+      "path": "Dnd/Campaign Notes/Adventure in Newala Canyon/Session 7 Plan.md"
     },
     {
       "basename": "Session 7 notes",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Adventure in Newala Canyon/Session 7 notes.md"
+      "path": "Dnd/Campaign Notes/Adventure in Newala Canyon/Session 7 notes.md"
     },
     {
       "basename": "Session 6 Notes",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Adventure in Newala Canyon/Session 6 Notes.md"
+      "path": "Dnd/Campaign Notes/Adventure in Newala Canyon/Session 6 Notes.md"
     },
     {
       "basename": "Prologue Session 6 Plan",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Adventure in Newala Canyon/Prologue Session 6 Plan.md"
+      "path": "Dnd/Campaign Notes/Adventure in Newala Canyon/Prologue Session 6 Plan.md"
     },
     {
       "basename": "Prologue Session 5 Plan",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Adventure in Newala Canyon/Prologue Session 5 Plan.md"
+      "path": "Dnd/Campaign Notes/Adventure in Newala Canyon/Prologue Session 5 Plan.md"
     },
     {
       "basename": "Character Creation Notes 12-4-2025",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Adventure in Newala Canyon/Character Creation Notes 12-4-2025.md"
+      "path": "Dnd/Campaign Notes/Adventure in Newala Canyon/Character Creation Notes 12-4-2025.md"
     },
     {
       "basename": "Prologue Session 5 Notes",
-      "path": "Dnd/Campaign Notes/Tournament/Prologue/Adventure in Newala Canyon/Prologue Session 5 Notes.md"
+      "path": "Dnd/Campaign Notes/Adventure in Newala Canyon/Prologue Session 5 Notes.md"
     },
     {
       "basename": "Bleeding Grove Crypt",
@@ -187,18 +199,6 @@
     {
       "basename": "The Mad Prophet of The Cut",
       "path": "Dnd/Requiem Gigantis/Characters/Gods/The Mad Prophet of The Cut.md"
-    },
-    {
-      "basename": "Throga “Mama” Krun",
-      "path": "Dnd/Requiem Gigantis/Characters/Flavor/Throga “Mama” Krun.md"
-    },
-    {
-      "basename": "Marcus Hendry",
-      "path": "Dnd/Requiem Gigantis/Characters/Marcus Hendry.md"
-    },
-    {
-      "basename": "SlamFace DoorKnob",
-      "path": "Dnd/Requiem Gigantis/Characters/PCs/SlamFace DoorKnob.md"
     }
   ],
   "omittedPaths": [],

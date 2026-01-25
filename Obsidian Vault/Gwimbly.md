@@ -1,0 +1,1 @@
+A rotund halfling with an impressively crafted false beard of braided brown hair streaked with gray. He wears boots with hidden lifts and tends to stand on steps or behind furniture to add height. His dwarven accent slips when excited or drunk.

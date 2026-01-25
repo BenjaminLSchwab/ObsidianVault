@@ -1,0 +1,8 @@
+- Give a bit of time to socialize at the beginning
+- Quick refresher on characters
+- Intro sequence
+	- snowy winds blowing, as you turn around the bend of this mountain path, a building comes into view
+	- It looks like a mansion, some of the features are dwarven 
+		- (history DC 14) not dwarven but made to look dwarven
+	- With another gust, you look up and see some dark clouds rolling in over the jagged peaks, and it starts to snow harder You feel a chill cut through your layers
+	- 
