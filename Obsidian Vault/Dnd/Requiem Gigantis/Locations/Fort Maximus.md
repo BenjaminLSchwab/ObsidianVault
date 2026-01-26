@@ -6,7 +6,7 @@ A striking blend of dwarven architectural tradition and human ambition perched o
 
 ## Staff
 
-**[[Gwimbly]]**
+**[[Edwin Took]]**
 
 **[[Cornelius Vex]]**
 

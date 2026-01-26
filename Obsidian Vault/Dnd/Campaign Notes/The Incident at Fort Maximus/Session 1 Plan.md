@@ -1,3 +1,5 @@
+
+
 - Give a bit of time to socialize at the beginning
 - Quick refresher on characters
 - Intro sequence
@@ -5,4 +7,21 @@
 	- It looks like a mansion, some of the features are dwarven 
 		- (history DC 14) not dwarven but made to look dwarven
 	- With another gust, you look up and see some dark clouds rolling in over the jagged peaks, and it starts to snow harder You feel a chill cut through your layers
-	- 
+- Some kind of minor obstacle on the road to [[Fort Maximus]]
+- Meet [[Captain Aldric Thorngage]] outside the manor, brief questioning
+- Meet [[Cornelius Vex]], welcomes to manor, takes coats, asks business
+- Meet  [[Edwin Took]], gives snacks
+- [[Democritus Maximus]] will be eager to meet them and hear stories
+	- will be reluctant to give away artifact, maybe after some great convincing that he has something that was stolen
+	- will notice that there is a snow storm outside, cant exactly leave with the artifact right now anyway, why not stay the night and take it with when the storm breaks
+	- He tells them about a nearby entrance to the old dwarven mine complex, part of why the place was built here, apparently those mines go through the mountains all the way toward Steelbeard Bastion
+- Retire for the night, maybe have a convo with Aldric about how bored he is
+- Wake in the middle of the night to Edwin knocking on door
+	- Come quick, something terrible has happened!
+	- Democritus has dies in the night, sitting on his fav chair
+	- Accusations fly
+	- maybe battle
+- Cornelius doesn't want to let go of artifact
+	- maybe convinced
+	- the guard captain is loyal to him
+- They get artifact

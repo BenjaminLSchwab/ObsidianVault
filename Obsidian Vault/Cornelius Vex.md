@@ -1,1 +1,0 @@
-Head Butler. A rail-thin human in his fifties with severely slicked-back silver hair and a permanent expression of mild disapproval. Moves with precise, almost mechanical grace. His tailored black uniform is immaculate, and he treats serving Democritus as a necessary martyrdom. Speaks in clipped, formal tones and manages the household with ruthless efficiency.

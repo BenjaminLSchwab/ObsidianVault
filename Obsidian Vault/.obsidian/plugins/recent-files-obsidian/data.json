@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Session 1 Plan",
+      "path": "Dnd/Campaign Notes/The Incident at Fort Maximus/Session 1 Plan.md"
+    },
+    {
+      "basename": "Captain Aldric Thorngage",
+      "path": "Dnd/Requiem Gigantis/Characters/Captain Aldric Thorngage.md"
+    },
+    {
+      "basename": "Aldric Thorngage",
+      "path": "Art/Aldric Thorngage.png"
+    },
+    {
+      "basename": "Cornelius Vex",
+      "path": "Dnd/Requiem Gigantis/Characters/Cornelius Vex.md"
+    },
+    {
+      "basename": "Fort Maximus",
+      "path": "Dnd/Requiem Gigantis/Locations/Fort Maximus.md"
+    },
+    {
+      "basename": "Edwin Took",
+      "path": "Dnd/Requiem Gigantis/Characters/Edwin Took.md"
+    },
+    {
+      "basename": "AI Gen Prompts",
+      "path": "Dnd/Campaign Notes/AI Gen Prompts.md"
+    },
+    {
       "basename": "Session 7 notes",
       "path": "Dnd/Campaign Notes/Adventure in Newala Canyon/Session 7 notes.md"
     },
@@ -33,32 +61,8 @@
       "path": "Dnd/Campaign Notes/Beneath The Bleeding Grove/Session 4 Plan.md"
     },
     {
-      "basename": "Fort Maximus",
-      "path": "Dnd/Requiem Gigantis/Locations/Fort Maximus.md"
-    },
-    {
-      "basename": "AI Gen Prompts",
-      "path": "Dnd/Campaign Notes/AI Gen Prompts.md"
-    },
-    {
       "basename": "Democritus Maximus",
       "path": "Dnd/Requiem Gigantis/Characters/Democritus Maximus.md"
-    },
-    {
-      "basename": "Captain Aldric Thorngage",
-      "path": "Captain Aldric Thorngage.md"
-    },
-    {
-      "basename": "Cornelius Vex",
-      "path": "Cornelius Vex.md"
-    },
-    {
-      "basename": "Gwimbly",
-      "path": "Gwimbly.md"
-    },
-    {
-      "basename": "Session 1 Plan",
-      "path": "Dnd/Campaign Notes/The Incident at Fort Maximus/Session 1 Plan.md"
     },
     {
       "basename": "The Incident at Fort Maximus Brainstorm",
@@ -195,10 +199,6 @@
     {
       "basename": "Character Creation Notes 12-4-2025",
       "path": "Dnd/Campaign Notes/Adventure in Newala Canyon/Character Creation Notes 12-4-2025.md"
-    },
-    {
-      "basename": "Prologue Session 5 Notes",
-      "path": "Dnd/Campaign Notes/Adventure in Newala Canyon/Prologue Session 5 Notes.md"
     }
   ],
   "omittedPaths": [],

@@ -8,7 +8,7 @@
 		- he kept stringing them along and promising to give them the artifact if they stayed for a while. Kept coming up with excuses as to why he cant give it just yet
 - Session one begins with party listening to Democritus prattle on about dwarven culture in the main dining hall, then dismissing them for the night
 	- with the party hearing a knock at their chambers
-	- [[Gwimbly]] tells them that something horrible has happened, and they should come quick
+	- [[Edwin Took]] tells them that something horrible has happened, and they should come quick
 	- They find that Democritus has died, sitting on his favorite chair.
 	- All the staff know that he had promised them the artifact, and Gwimbly says they should have it now that Democritus has passed
 	- Another staff member, an uptight underpaid guy want them to pay a high price for the artifact.
