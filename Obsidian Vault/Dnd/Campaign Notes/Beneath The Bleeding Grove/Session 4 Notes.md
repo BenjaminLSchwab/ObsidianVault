@@ -1,0 +1,7 @@
+- They went back up the stairs
+- considered selling info on underdark
+- fought and killed undead elf
+- negotiated how much money to reveal to warlord
+- grobli was by far the fan favorite
+- Grobli Smash Tusk is his new name
+- 
