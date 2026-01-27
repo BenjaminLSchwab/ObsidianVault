@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "James Walker Griffith",
+      "path": "Dnd/Requiem Gigantis/Characters/PCs/James Walker Griffith.md"
+    },
+    {
+      "basename": "Session 1 notes",
+      "path": "Dnd/Campaign Notes/The Incident at Fort Maximus/Session 1 notes.md"
+    },
+    {
+      "basename": "Skipio",
+      "path": "Dnd/Requiem Gigantis/Characters/PCs/Skipio.md"
+    },
+    {
+      "basename": "Fort Maximus",
+      "path": "Dnd/Requiem Gigantis/Locations/Fort Maximus.md"
+    },
+    {
       "basename": "Session 1 Plan",
       "path": "Dnd/Campaign Notes/The Incident at Fort Maximus/Session 1 Plan.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "Cornelius Vex",
       "path": "Dnd/Requiem Gigantis/Characters/Cornelius Vex.md"
-    },
-    {
-      "basename": "Fort Maximus",
-      "path": "Dnd/Requiem Gigantis/Locations/Fort Maximus.md"
     },
     {
       "basename": "Edwin Took",
@@ -187,18 +199,6 @@
     {
       "basename": "Session 6 Notes",
       "path": "Dnd/Campaign Notes/Adventure in Newala Canyon/Session 6 Notes.md"
-    },
-    {
-      "basename": "Prologue Session 6 Plan",
-      "path": "Dnd/Campaign Notes/Adventure in Newala Canyon/Prologue Session 6 Plan.md"
-    },
-    {
-      "basename": "Prologue Session 5 Plan",
-      "path": "Dnd/Campaign Notes/Adventure in Newala Canyon/Prologue Session 5 Plan.md"
-    },
-    {
-      "basename": "Character Creation Notes 12-4-2025",
-      "path": "Dnd/Campaign Notes/Adventure in Newala Canyon/Character Creation Notes 12-4-2025.md"
     }
   ],
   "omittedPaths": [],

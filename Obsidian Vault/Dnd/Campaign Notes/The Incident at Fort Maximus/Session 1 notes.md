@@ -1,0 +1,12 @@
+- [[Skipio]] charmed [[Democritus Maximus]] and convinced him that the artifact was stolen, and needed to be returned
+	- Democritus insisted that he would go along to see the bastion one last time
+	- promised him an enchanted set of armor when they get to [[Steelbeard Bastion]]
+- The party was absolutely against taking the artifact by force
+- They watched Democritus closely and prevented his death, thanks to [[James Walker Griffith]] healing spell
+- They sent a message to Steelbeard Bastion that included their whereabouts and that they have [[Helm's Mantle]]
+	- Maybe use this to explain an ambush?
+- They waited for the blizzard to pass and arranged a party of two wagons, pulled by mules
+	- Party includes [[Democritus Maximus]], [[Edwin Took]], 
+	- One wagon was crafted into a special oven wagon to keep Democritus warm / allow cooking
+- The party started making their way toward the abandoned mine in favor of going through the mountain pass
+	- rumors of goblins in the mines 
