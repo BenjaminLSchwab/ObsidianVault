@@ -15,5 +15,26 @@
 	- The bones of those stuck in the slime can be seen, suspended like pieces of fruit in Jello
 - The party may investigate what happened
 	- The slime flew through the air from the north
-	- A keen observer further north in the city
+	- [[A keen observer]] further north in the city
 		- "It wasn't flying through the air like when somebody throws something. It was more floating like, magic like"
+	- Who had beef with the adventurer's guild?
+		-  [[Kael Thornwake]] will say there was a strange wizard called [[Lelah The Mad Mage]] who had been been trying to become guild master and was pretty upset when she didn't win.
+			- rumored to have a mage tower in the northern wilderness
+- Party will probably seek out the wizard [[Lelah The Mad Mage]] in [[Mad Mage Tower]]
+	- The path there needs at least one interesting choice or obstacle
+	- The Tower will have [[Sir Gareth the Bound]] out front
+		- A knight in full plate armor, asks a riddle to get in
+		- is controlled by a magic curse to obey Lelah
+		- might ask them to free him of his curse, or destroy him
+	- the tower needs some coo; cursed magic loot
+	- needs a confusing illusion room puzzle, thinking of the never ending stairway from mario
+	- A magic tome left open to a page that describes a spell to make an object weightless for a certain time
+- Party talks to Lelah
+	- Lelah will try to convince them to help her start a new adventurer's guild location together. They can be the leadership of the new guildhall. 
+	- She will deny the allegations of sliming the old guildhall
+	- There will be a catapult at the top of the tower with slime residue on it.
+- Party will probably try to kill Lelah, or might join her
+- Todo:
+	- [[Captain of the Guard]]
+	- [[A keen observer]] 
+	- obstacle on way to tower

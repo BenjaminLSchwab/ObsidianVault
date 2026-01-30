@@ -1,4 +1,5 @@
 ![[Marcus Hendry Portrait.png]]
+died during adventure in Newala canyon
 **Age:** Mid-50s
 **Race:** Human
 **Occupation:** Former Imperial supply quartermaster (retired)

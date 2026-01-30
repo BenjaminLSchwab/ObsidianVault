@@ -1,6 +1,7 @@
 ![[Garrett Moss Portrait.png]]
 ## Basic Information
 
+Died at the hands of [[SlamFace DoorKnob]] 
 **Age:** 28
 **Race:** Human
 **Class:** Fighter 
