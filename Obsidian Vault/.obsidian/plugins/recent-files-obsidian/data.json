@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Brainstorm",
-      "path": "Dnd/Campaign Notes/It Came From Above/Brainstorm.md"
+      "basename": "It Came From Above - Lore Handout",
+      "path": "Dnd/Campaign Notes/It Came From Above/It Came From Above - Lore Handout.md"
+    },
+    {
+      "basename": "AI Gen Prompts",
+      "path": "Dnd/Campaign Notes/AI Gen Prompts.md"
+    },
+    {
+      "basename": "Beneath the Bleeding Grove Lore Document",
+      "path": "Dnd/Requiem Gigantis/Lore/Beneath the Bleeding Grove Lore Document.md"
+    },
+    {
+      "basename": "Lore Handout for Test Session 4",
+      "path": "Dnd/Requiem Gigantis/Lore/Lore Handout for Test Session 4.md"
+    },
+    {
+      "basename": "Quartum",
+      "path": "Dnd/Requiem Gigantis/Cities/Quartum.md"
+    },
+    {
+      "basename": "Session 1 Plan",
+      "path": "Dnd/Campaign Notes/It Came From Above/Session 1 Plan.md"
     },
     {
       "basename": "Sir Gareth the Bound",
@@ -11,10 +31,6 @@
     {
       "basename": "Mad Mage Tower",
       "path": "Mad Mage Tower.md"
-    },
-    {
-      "basename": "AI Gen Prompts",
-      "path": "Dnd/Campaign Notes/AI Gen Prompts.md"
     },
     {
       "basename": "A keen observer",
@@ -161,16 +177,8 @@
       "path": "Dnd/Requiem Gigantis/Cities/Orcod.md"
     },
     {
-      "basename": "Beneath the Bleeding Grove Lore Document",
-      "path": "Dnd/Requiem Gigantis/Lore/Beneath the Bleeding Grove Lore Document.md"
-    },
-    {
       "basename": "Fifth Age",
       "path": "Dnd/Requiem Gigantis/Lore/Fifth Age.md"
-    },
-    {
-      "basename": "Lore Handout for Test Session 4",
-      "path": "Dnd/Requiem Gigantis/Lore/Lore Handout for Test Session 4.md"
     },
     {
       "basename": "The Incident at Fort Maximus Lore Handout",
@@ -191,14 +199,6 @@
     {
       "basename": "Session 3 Notes",
       "path": "Dnd/Campaign Notes/Beneath The Bleeding Grove/Session 3 Notes.md"
-    },
-    {
-      "basename": "Helm's Mantle",
-      "path": "Dnd/Requiem Gigantis/Items/Helm's Mantle.md"
-    },
-    {
-      "basename": "Quartum",
-      "path": "Dnd/Requiem Gigantis/Cities/Quartum.md"
     }
   ],
   "omittedPaths": [],
