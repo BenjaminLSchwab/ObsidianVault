@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Session 1 Plan",
+      "path": "Dnd/Campaign Notes/It Came From Above/Session 1 Plan.md"
+    },
+    {
+      "basename": "Edson Turner",
+      "path": "Dnd/Requiem Gigantis/Characters/Edson Turner.md"
+    },
+    {
+      "basename": "AI Gen Prompts",
+      "path": "Dnd/Campaign Notes/AI Gen Prompts.md"
+    },
+    {
+      "basename": "Captain Brock",
+      "path": "Dnd/Requiem Gigantis/Characters/Captain Brock.md"
+    },
+    {
+      "basename": "brockPortrait",
+      "path": "Art/brockPortrait.png"
+    },
+    {
       "basename": "Lysander Larkspur",
       "path": "Dnd/Requiem Gigantis/Characters/PCs/Lysander Larkspur.md"
     },
     {
       "basename": "It Came From Above - Lore Handout",
       "path": "Dnd/Campaign Notes/It Came From Above/It Came From Above - Lore Handout.md"
-    },
-    {
-      "basename": "AI Gen Prompts",
-      "path": "Dnd/Campaign Notes/AI Gen Prompts.md"
     },
     {
       "basename": "Beneath the Bleeding Grove Lore Document",
@@ -25,24 +41,16 @@
       "path": "Dnd/Requiem Gigantis/Cities/Quartum.md"
     },
     {
-      "basename": "Session 1 Plan",
-      "path": "Dnd/Campaign Notes/It Came From Above/Session 1 Plan.md"
-    },
-    {
       "basename": "Sir Gareth the Bound",
-      "path": "Sir Gareth the Bound.md"
+      "path": "Dnd/Requiem Gigantis/Characters/Sir Gareth the Bound.md"
     },
     {
       "basename": "Mad Mage Tower",
-      "path": "Mad Mage Tower.md"
-    },
-    {
-      "basename": "A keen observer",
-      "path": "A keen observer.md"
+      "path": "Dnd/Requiem Gigantis/Locations/Mad Mage Tower.md"
     },
     {
       "basename": "Lelah The Mad Mage",
-      "path": "Lelah The Mad Mage.md"
+      "path": "Dnd/Requiem Gigantis/Characters/Lelah The Mad Mage.md"
     },
     {
       "basename": "Garrett Moss",
@@ -191,14 +199,6 @@
     {
       "basename": "Beneath the Bleeding Grove brainstorm",
       "path": "Dnd/Campaign Notes/Beneath The Bleeding Grove/Beneath the Bleeding Grove brainstorm.md"
-    },
-    {
-      "basename": "Beneath the Bleeding Grove Session 1 Plan",
-      "path": "Dnd/Campaign Notes/Beneath The Bleeding Grove/Beneath the Bleeding Grove Session 1 Plan.md"
-    },
-    {
-      "basename": "Beneath The Bleeding Grove Session 2 Plan",
-      "path": "Dnd/Campaign Notes/Beneath The Bleeding Grove/Beneath The Bleeding Grove Session 2 Plan.md"
     }
   ],
   "omittedPaths": [],

@@ -6,7 +6,9 @@
 	- the guildhall itself has a lot of fumes coming from the hole in the roof
 	- The wooden beams holding up the building begin to creak as they are dissolved and have trouble holding up the building
 - As the building slowly collapses, panicked townsfolk try to respond to the event
-	- This is where the party can meet [[Captain of the Guard]] 
+	- This is where the party can meet [[Captain Brock]] 
+		- He will offer a reward of 1000gp for bringing whoever did this to justice
+		- many adventurers will be eager to claim reward
 	- a few brave types pry open the stuck door and see that all the space inside the building is filled with slime
 		- One tries to dig his way in to look for survivors
 			- He is horribly burned to death by acid
@@ -15,13 +17,13 @@
 	- The bones of those stuck in the slime can be seen, suspended like pieces of fruit in Jello
 - The party may investigate what happened
 	- The slime flew through the air from the north
-	- [[A keen observer]] further north in the city
+	- [[Edson Turner]] further north in the city
 		- "It wasn't flying through the air like when somebody throws something. It was more floating like, magic like"
 	- Who had beef with the adventurer's guild?
 		-  [[Kael Thornwake]] will say there was a strange wizard called [[Lelah The Mad Mage]] who had been been trying to become guild master and was pretty upset when she didn't win.
 			- rumored to have a mage tower in the northern wilderness
 - Party will probably seek out the wizard [[Lelah The Mad Mage]] in [[Mad Mage Tower]]
-	- The path there needs at least one interesting choice or obstacle
+	- The path there may have quicksand
 	- The Tower will have [[Sir Gareth the Bound]] out front
 		- A knight in full plate armor, asks a riddle to get in
 		- is controlled by a magic curse to obey Lelah
@@ -34,7 +36,3 @@
 	- She will deny the allegations of sliming the old guildhall
 	- There will be a catapult at the top of the tower with slime residue on it.
 - Party will probably try to kill Lelah, or might join her
-- Todo:
-	- [[Captain of the Guard]]
-	- [[A keen observer]] 
-	- obstacle on way to tower
