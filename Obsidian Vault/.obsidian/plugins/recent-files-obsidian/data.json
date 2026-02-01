@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Mad Mage Tower",
+      "path": "Dnd/Requiem Gigantis/Locations/Mad Mage Tower.md"
+    },
+    {
+      "basename": "Session 1 Plan",
+      "path": "Dnd/Campaign Notes/It Came From Above/Session 1 Plan.md"
+    },
+    {
+      "basename": "Urist Greenleaf",
+      "path": "Dnd/Requiem Gigantis/Characters/PCs/Urist Greenleaf.md"
+    },
+    {
+      "basename": "Mayra Goldwood",
+      "path": "Dnd/Requiem Gigantis/Characters/PCs/Mayra Goldwood.md"
+    },
+    {
+      "basename": "Lysander Larkspur",
+      "path": "Dnd/Requiem Gigantis/Characters/PCs/Lysander Larkspur.md"
+    },
+    {
+      "basename": "Anaximander",
+      "path": "Dnd/Requiem Gigantis/Characters/Anaximander.md"
+    },
+    {
+      "basename": "Edson Turner",
+      "path": "Art/Edson Turner.png"
+    },
+    {
+      "basename": "Will and raisa Character Creation",
+      "path": "Dnd/Campaign Notes/Tournament/Prologue/Will and raisa Character Creation.md"
+    },
+    {
       "basename": "Herida Thule",
       "path": "Dnd/Requiem Gigantis/Characters/Flavor/Herida Thule.md"
     },
@@ -25,10 +57,6 @@
       "path": "Dnd/Requiem Gigantis/Characters/Flavor/Karnessa Vale.md"
     },
     {
-      "basename": "Session 1 Plan",
-      "path": "Dnd/Campaign Notes/It Came From Above/Session 1 Plan.md"
-    },
-    {
       "basename": "Edson Turner",
       "path": "Dnd/Requiem Gigantis/Characters/Edson Turner.md"
     },
@@ -43,10 +71,6 @@
     {
       "basename": "brockPortrait",
       "path": "Art/brockPortrait.png"
-    },
-    {
-      "basename": "Lysander Larkspur",
-      "path": "Dnd/Requiem Gigantis/Characters/PCs/Lysander Larkspur.md"
     },
     {
       "basename": "It Came From Above - Lore Handout",
@@ -67,10 +91,6 @@
     {
       "basename": "Sir Gareth the Bound",
       "path": "Dnd/Requiem Gigantis/Characters/Sir Gareth the Bound.md"
-    },
-    {
-      "basename": "Mad Mage Tower",
-      "path": "Dnd/Requiem Gigantis/Locations/Mad Mage Tower.md"
     },
     {
       "basename": "Lelah The Mad Mage",
@@ -99,10 +119,6 @@
     {
       "basename": "Captain Aldric Thorngage",
       "path": "Dnd/Requiem Gigantis/Characters/Captain Aldric Thorngage.md"
-    },
-    {
-      "basename": "Anaximander",
-      "path": "Dnd/Requiem Gigantis/Characters/Anaximander.md"
     },
     {
       "basename": "Thoggrin the Rebuilt",
@@ -183,22 +199,6 @@
     {
       "basename": "Session 4 Plan",
       "path": "Dnd/Campaign Notes/Beneath The Bleeding Grove/Session 4 Plan.md"
-    },
-    {
-      "basename": "The Incident at Fort Maximus Brainstorm",
-      "path": "Dnd/Campaign Notes/The Incident at Fort Maximus/The Incident at Fort Maximus Brainstorm.md"
-    },
-    {
-      "basename": "Cosmic Network",
-      "path": "Art/Cosmic Network.png"
-    },
-    {
-      "basename": "Orcod",
-      "path": "Dnd/Requiem Gigantis/Cities/Orcod.md"
-    },
-    {
-      "basename": "Fifth Age",
-      "path": "Dnd/Requiem Gigantis/Lore/Fifth Age.md"
     }
   ],
   "omittedPaths": [],

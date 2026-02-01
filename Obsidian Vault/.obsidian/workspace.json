@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dnd/Requiem Gigantis/Characters/Flavor/Herida Thule.md",
+                "file": "Dnd/Requiem Gigantis/Locations/Mad Mage Tower.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Herida Thule"
+              "title": "Mad Mage Tower"
             }
           },
           {
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warlord Grommash Bloodtusk.md",
+                "file": "Dnd/Requiem Gigantis/Locations/Mad Mage Tower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Warlord Grommash Bloodtusk"
+              "title": "Backlinks for Mad Mage Tower"
             }
           },
           {
@@ -217,22 +217,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a362ffbce5ead7b",
+  "active": "a9cd33378179647d",
   "lastOpenFiles": [
-    "Herida Thule Portrait.png",
-    "Dnd/Requiem Gigantis/Characters/Grobli Smackums.md",
+    "Dnd/Campaign Notes/It Came From Above/Session 1 Plan.md",
+    "Dnd/Requiem Gigantis/Characters/PCs/Urist Greenleaf.md",
+    "Urist.png",
+    "Dnd/Requiem Gigantis/Characters/PCs/Mayra Goldwood.md",
+    "myra.jpg",
+    "Dnd/Requiem Gigantis/Characters/PCs/Lysander Larkspur.md",
+    "Dnd/Requiem Gigantis/Characters/Anaximander.md",
+    "Art/Edson Turner.png",
+    "Dnd/Campaign Notes/Tournament/Prologue/Will and raisa Character Creation.md",
     "Dnd/Requiem Gigantis/Characters/Flavor/Herida Thule.md",
+    "Art/Herida Thule Portrait.png",
+    "Dnd/Requiem Gigantis/Characters/Grobli Smackums.md",
     "Dnd/Requiem Gigantis/Characters/Flavor/Throga “Mama” Krun.md",
     "Dnd/Requiem Gigantis/Characters/Flavor/Kael Thornwake.md",
     "Dnd/Requiem Gigantis/Characters/Flavor/Merrit “Six-Fingers” Dross.md",
     "Dnd/Requiem Gigantis/Characters/Flavor/Karnessa Vale.md",
-    "Dnd/Campaign Notes/It Came From Above/Session 1 Plan.md",
     "Dnd/Requiem Gigantis/Characters/Edson Turner.md",
-    "Edson Turner.png",
     "Dnd/Campaign Notes/AI Gen Prompts.md",
     "Dnd/Requiem Gigantis/Characters/Captain Brock.md",
     "Art/brockPortrait.png",
-    "Dnd/Requiem Gigantis/Characters/PCs/Lysander Larkspur.md",
     "Art/Lysander Larkspur.png",
     "Dnd/Campaign Notes/It Came From Above/It Came From Above - Lore Handout.md",
     "Art/Market.png",
@@ -245,16 +251,9 @@
     "Dnd/Requiem Gigantis/Locations/Mad Mage Tower.md",
     "Art/Sir Gareth.png",
     "Dnd/Requiem Gigantis/Characters/Lelah The Mad Mage.md",
-    "Art/Lelah the Mad Mage.png",
     "Dnd/Requiem Gigantis/Characters/Garrett Moss.md",
     "Dnd/Requiem Gigantis/Characters/Finwe.md",
     "Dnd/Requiem Gigantis/Characters/Edwin Took.md",
-    "Dnd/Requiem Gigantis/Characters/Democritus Maximus.md",
-    "Dnd/Requiem Gigantis/Characters/Cornelius Vex.md",
-    "Dnd/Requiem Gigantis/Characters/Captain Aldric Thorngage.md",
-    "Dnd/Requiem Gigantis/Characters/Anaximander.md",
-    "Art/Kael Thornwake Portrait.png",
-    "Art/Aldric Thorngage.png",
     "Dnd/Campaign Notes/It Came From Above",
     "Dnd/Requiem Gigantis/Items",
     "Dnd/Campaign Notes/The Incident at Fort Maximus",

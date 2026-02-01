@@ -1,10 +1,14 @@
 - Location : [[Quartum]] 
+- Party:
+	- [[Lysander Larkspur]]
+	- [[Urist Greenleaf]]
+	- [[Mayra Goldwood]]
 - Party is returning from another adventure to turn in their quest of killing 14 goblins at the adventurers guild, nearly to the front door
 	- Suddenly, with a crash, a mass of green smashes through the roof of the guild
 	- There's a hole in the roof, and little bits of green slime are on the roof and a few got flung in every direction.
 - The slime is acidic, and little puffs of acrid smoke come from every spot where a piece landed
 	- the guildhall itself has a lot of fumes coming from the hole in the roof
-	- The wooden beams holding up the building begin to creak as they are dissolved and have trouble holding up the building
+	- The wooden beams holding up the building begin to creak as they are dissolved and have trouble under the pressure
 - As the building slowly collapses, panicked townsfolk try to respond to the event
 	- This is where the party can meet [[Captain Brock]] 
 		- He will offer a reward of 1000gp for bringing whoever did this to justice
@@ -22,6 +26,9 @@
 	- Who had beef with the adventurer's guild?
 		-  [[Kael Thornwake]] will say there was a strange wizard called [[Lelah The Mad Mage]] who had been been trying to become guild master and was pretty upset when she didn't win.
 			- rumored to have a mage tower in the northern wilderness
+	- If they spend time in the market
+		- pass by a stall selling gorillas among other exotic creatures
+		- one of the gorillas winks at [[Lysander Larkspur]]
 - Party will probably seek out the wizard [[Lelah The Mad Mage]] in [[Mad Mage Tower]]
 	- The path there may have quicksand
 	- The Tower will have [[Sir Gareth the Bound]] out front

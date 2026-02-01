@@ -1,0 +1,14 @@
+![[Urist.png]]
+- Will's Character
+- Dwarf Druid
+- from wilderness SW of [[Unnenwald]]
+- badgers for friends
+- captured as wild shaped badger
+- experimented on
+- stuck as badger for many years
+- works for wizard academy
+	- hunts down magic users
+- pet badgers
+	- Chunt
+	- Bruno
+	- sprout
