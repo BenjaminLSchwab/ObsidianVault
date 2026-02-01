@@ -1,0 +1,19 @@
+- Party:
+	- [[Mayra Goldwood]]
+	- [[Urist Greenleaf]]
+	- [[Lysander Larkspur]]
+- They saw the slime fall on the building
+	- Urist tried to talk to the slime, wanted to save it
+	- after a bit, the slime collapsed the building and was killed'
+- They investigated a bit
+	- Kael told them about [[Lelah The Mad Mage]], and how she had a beef with the adventurer's guild 
+	- 
+- They went to the market
+	- Urist let a gorilla free from its cage, the gorilla attacked the exotic animal shop owner and then left
+	- They bought some potions from [[Bathtub Man]]
+- They went north 
+	- crossed a river
+- They found [[Mad Mage Tower]]
+	- began fight with [[Sir Gareth the Bound]]
+	- Lysander seemed uninterested in the fight, and began exploring the tower further while the rest of the party fought
+	- we left off in the middle of the fight
