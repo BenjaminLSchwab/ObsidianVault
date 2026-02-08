@@ -32,7 +32,7 @@ The walls are lined with mirrors. The room appears to extend infinitely in all d
 
 - **The Honest Mirror** (cursed): A hand mirror that shows your reflection but also speaks your deepest insecurities aloud whenever you look into it. However, it grants advantage on Insight checks as it also reveals when others are lying.
 - Several valuable books on magical theory (50 gp each, 5 total)
-- **Boots of Questionable Speed** (cursed): Grant +20ft movement speed, but the wearer must succeed on a DC 12 Dex save whenever they stop moving or fall prone and end their turn. The boots are incredibly comfortable, making them hard to give up.
+- **Boots of Questionable Speed** (cursed): Bonus action, Grant +20ft movement speed, but the wearer must succeed on a DC 12 Dex save whenever they stop moving or fall prone and end their turn. The boots are incredibly comfortable, making them hard to give up.
 **Exit**: 
 Once the party defeats the evil copy, the original will come back and the door to the next floor will appear.
 
