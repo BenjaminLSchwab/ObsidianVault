@@ -1,0 +1,8 @@
+- They travel toward the old mine entrance
+	- Democritus says he remembers the way
+- They enter the mine
+- they come to a fork in the mine
+	- goblins have scratched a sign that points one way
+		- The sign reads "friends of Azog"
+	- the other way looks less traveled
+		- beasties this way

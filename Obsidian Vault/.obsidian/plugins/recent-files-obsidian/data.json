@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Session 2 Plan",
+      "path": "Dnd/Campaign Notes/The Incident at Fort Maximus/Session 2 Plan.md"
+    },
+    {
       "basename": "Session 2 Notes",
       "path": "Dnd/Campaign Notes/It Came From Above/Session 2 Notes.md"
+    },
+    {
+      "basename": "AI Gen Prompts",
+      "path": "Dnd/Campaign Notes/AI Gen Prompts.md"
     },
     {
       "basename": "Mad Mage Tower",
@@ -71,10 +79,6 @@
     {
       "basename": "Edson Turner",
       "path": "Dnd/Requiem Gigantis/Characters/Edson Turner.md"
-    },
-    {
-      "basename": "AI Gen Prompts",
-      "path": "Dnd/Campaign Notes/AI Gen Prompts.md"
     },
     {
       "basename": "Captain Brock",
@@ -195,10 +199,6 @@
     {
       "basename": "Bandit King",
       "path": "Dnd/Requiem Gigantis/Characters/PCs/Bandit King.md"
-    },
-    {
-      "basename": "Austerio",
-      "path": "Dnd/Requiem Gigantis/Characters/PCs/Austerio.md"
     }
   ],
   "omittedPaths": [],
